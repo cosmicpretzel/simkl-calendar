@@ -2,6 +2,7 @@
  "id": "com.tyson.simklreleases",
  "version": "1.0.0",
  "name": "SIMKL Releases",
+ "logo": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/logo.jpg",
  "description": "Your upcoming movies and episodes from SIMKL, soonest first.",
  "resources": [
   "catalog"
