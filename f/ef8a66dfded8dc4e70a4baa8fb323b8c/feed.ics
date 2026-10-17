@@ -6,23 +6,21 @@ X-WR-CALNAME:SIMKL Releases
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:simkl-movie-3242313-20261015@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261015T130100Z
 DTEND:20261015T150100Z
 SUMMARY:You Can See Everything (release)
-LOCATION:You Can See Everything Trailer
-URL:https://www.youtube.com/watch?v=IEx8D1Wb__U
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt45368240\nOfficial release date: October 15\, 2026
+URL:nuvio://detail/movie/tt45368240
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=IEx8D1Wb__U\nOfficial release date: October 15\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-5-20261016@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261017T040414Z
 DTEND:20261017T044914Z
 SUMMARY:🔥 4K MobLand S02E05 - Birdland
-LOCATION:MobLand Trailer
-URL:https://www.youtube.com/watch?v=qKGgw7Ob5f4
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt31510819\nOfficial release: Fri Oct 16\, 12:00 AM PT
+URL:nuvio://detail/series/tt31510819
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Oct 16\, 12:00 AM PT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🔥 4K MobLand S02E05 - Birdland is now available in Nuvio
@@ -31,362 +29,326 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-1534684-20261018@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261018T130100Z
 DTEND:20261018T150100Z
 SUMMARY:Wildwood (release)
-LOCATION:Wildwood Trailer
-URL:https://www.youtube.com/watch?v=dtr5JL1zkiM
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt2056785\nOfficial release date: October 18\, 2026
+URL:nuvio://detail/movie/tt2056785
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=dtr5JL1zkiM\nOfficial release date: October 18\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2659297-20261020@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261020T130100Z
 DTEND:20261020T150100Z
 SUMMARY:Clayface (release)
-LOCATION:Clayface Trailer
-URL:https://www.youtube.com/watch?v=OGO4Mqvo3jI
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt34890576\nOfficial release date: October 20\, 2026
+URL:nuvio://detail/movie/tt34890576
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=OGO4Mqvo3jI\nOfficial release date: October 20\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-1-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E01 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-2-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E02 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-3-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E03 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-4-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E04 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-5-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E05 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-6-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E06 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-7-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E07 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1577800-2-8-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T060000Z
 DTEND:20261021T063000Z
 SUMMARY:The Terminal List S02E08 - TBA
-LOCATION:The Terminal List Trailer
-URL:https://www.youtube.com/watch?v=x9FvvsC0B5Q
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11743610\nOfficial release: Tue Oct 20\, 09:00 PM PT
+URL:nuvio://detail/series/tt11743610
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=x9FvvsC0B5Q\nOfficial release: Tue Oct 20\, 09:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-6-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T090000Z
 DTEND:20261021T093000Z
 SUMMARY:Love is Blind S11E06 - Episode 6
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Wed Oct 21\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Oct 21\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-7-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T090000Z
 DTEND:20261021T093000Z
 SUMMARY:Love is Blind S11E07 - Episode 7
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Wed Oct 21\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Oct 21\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-8-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T090000Z
 DTEND:20261021T093000Z
 SUMMARY:Love is Blind S11E08 - Episode 8
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Wed Oct 21\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Oct 21\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-3177725-20261021@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261021T130100Z
 DTEND:20261021T150100Z
 SUMMARY:Ali G: Who Iz I? (release)
-LOCATION:Ali G: Who Iz I? Trailer
-URL:https://www.youtube.com/watch?v=pV32AcPa-iA
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt43655467\nOfficial release date: October 21\, 2026
+URL:nuvio://detail/movie/tt43655467
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=pV32AcPa-iA\nOfficial release date: October 21\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-6-20261023@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261023T090000Z
 DTEND:20261023T093000Z
 SUMMARY:MobLand S02E06 - A Different Corner
-LOCATION:MobLand Trailer
-URL:https://www.youtube.com/watch?v=qKGgw7Ob5f4
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt31510819\nOfficial release: Fri Oct 23\, 12:00 AM PT
+URL:nuvio://detail/series/tt31510819
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Oct 23\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-9-20261028@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261028T090000Z
 DTEND:20261028T093000Z
 SUMMARY:Love is Blind S11E09 - Episode 9
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Wed Oct 28\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Oct 28\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-10-20261028@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261028T090000Z
 DTEND:20261028T093000Z
 SUMMARY:Love is Blind S11E10 - Episode 10
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Wed Oct 28\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Oct 28\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-11-20261028@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261028T090000Z
 DTEND:20261028T093000Z
 SUMMARY:Love is Blind S11E11 - Episode 11
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Wed Oct 28\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Oct 28\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-7-20261030@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261030T090000Z
 DTEND:20261030T093000Z
 SUMMARY:MobLand S02E07 - Ace of Spades
-LOCATION:MobLand Trailer
-URL:https://www.youtube.com/watch?v=qKGgw7Ob5f4
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt31510819\nOfficial release: Fri Oct 30\, 12:00 AM PT
+URL:nuvio://detail/series/tt31510819
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Oct 30\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2902813-20261103@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261103T140100Z
 DTEND:20261103T160100Z
 SUMMARY:Ghost Soldier (release)
-LOCATION:Ghost Soldier Trailer
-URL:https://www.youtube.com/watch?v=l0pTZqZWs-c
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt38686316\nOfficial release date: November 03\, 2026
+URL:nuvio://detail/movie/tt38686316
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=l0pTZqZWs-c\nOfficial release date: November 03\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-12-20261104@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261104T100000Z
 DTEND:20261104T103000Z
 SUMMARY:Love is Blind S11E12 - Episode 12
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Wed Nov 04\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Nov 04\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-8-20261106@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261106T100000Z
 DTEND:20261106T103000Z
 SUMMARY:MobLand S02E08 - TBA
-LOCATION:MobLand Trailer
-URL:https://www.youtube.com/watch?v=qKGgw7Ob5f4
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt31510819\nOfficial release: Fri Nov 06\, 12:00 AM PT
+URL:nuvio://detail/series/tt31510819
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Nov 06\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-13-20261108@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261108T100000Z
 DTEND:20261108T103000Z
 SUMMARY:Love is Blind S11E13 - The Reunion
-LOCATION:Love is Blind Trailer
-URL:https://www.youtube.com/watch?v=s2eBAFt3L_0
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt11704040\nOfficial release: Sun Nov 08\, 12:00 AM PT
+URL:nuvio://detail/series/tt11704040
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Sun Nov 08\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2174995-20261110@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261110T140100Z
 DTEND:20261110T160100Z
 SUMMARY:Madden (release)
-LOCATION:Madden Trailer
-URL:https://www.youtube.com/watch?v=xzh7HzLXXpk
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt24818230\nOfficial release date: November 10\, 2026
+URL:nuvio://detail/movie/tt24818230
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=xzh7HzLXXpk\nOfficial release date: November 10\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2909809-20261110@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261110T140100Z
 DTEND:20261110T160100Z
 SUMMARY:Ebenezer (release)
-LOCATION:Ebenezer Trailer
-URL:https://www.youtube.com/watch?v=l_Ozo1xUgbU
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt38773219\nOfficial release date: November 10\, 2026
+URL:nuvio://detail/movie/tt38773219
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=l_Ozo1xUgbU\nOfficial release date: November 10\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2626427-20261112@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261112T140100Z
 DTEND:20261112T160100Z
 SUMMARY:Paper Tiger (release)
-LOCATION:Paper Tiger Trailer
-URL:https://www.youtube.com/watch?v=MLwTyQOhBkw
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt34385689\nOfficial release date: November 12\, 2026
+URL:nuvio://detail/movie/tt34385689
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=MLwTyQOhBkw\nOfficial release date: November 12\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-9-20261113@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261113T100000Z
 DTEND:20261113T103000Z
 SUMMARY:MobLand S02E09 - TBA
-LOCATION:MobLand Trailer
-URL:https://www.youtube.com/watch?v=qKGgw7Ob5f4
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt31510819\nOfficial release: Fri Nov 13\, 12:00 AM PT
+URL:nuvio://detail/series/tt31510819
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Nov 13\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-1-20261115@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261115T100000Z
 DTEND:20261115T103000Z
 SUMMARY:The Chosen S06E01 - TBA
-LOCATION:The Chosen Trailer
-URL:https://www.youtube.com/watch?v=K1-FoFj8Jbo
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt5622316\nOfficial release: Sun Nov 15\, 12:00 AM PT
+URL:nuvio://detail/series/tt5622316
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 15\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-2-20261115@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261115T100000Z
 DTEND:20261115T103000Z
 SUMMARY:The Chosen S06E02 - TBA
-LOCATION:The Chosen Trailer
-URL:https://www.youtube.com/watch?v=K1-FoFj8Jbo
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt5622316\nOfficial release: Sun Nov 15\, 12:00 AM PT
+URL:nuvio://detail/series/tt5622316
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 15\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-3-20261115@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261115T100000Z
 DTEND:20261115T103000Z
 SUMMARY:The Chosen S06E03 - TBA
-LOCATION:The Chosen Trailer
-URL:https://www.youtube.com/watch?v=K1-FoFj8Jbo
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt5622316\nOfficial release: Sun Nov 15\, 12:00 AM PT
+URL:nuvio://detail/series/tt5622316
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 15\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2485467-20261117@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261117T140100Z
 DTEND:20261117T160100Z
 SUMMARY:The Hunger Games: Sunrise on the Reaping (release)
-LOCATION:The Hunger Games: Sunrise on the Reaping Trailer
-URL:https://www.youtube.com/watch?v=fS35YSjopjE
-DESCRIPTION:Open in Nuvio: nuvio://detail/movie/tt32558705\nOfficial release date: November 17\, 2026
+URL:nuvio://detail/movie/tt32558705
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=fS35YSjopjE\nOfficial release date: November 17\, 2026
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-10-20261120@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261120T100000Z
 DTEND:20261120T103000Z
 SUMMARY:MobLand S02E10 - TBA
-LOCATION:MobLand Trailer
-URL:https://www.youtube.com/watch?v=qKGgw7Ob5f4
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt31510819\nOfficial release: Fri Nov 20\, 12:00 AM PT
+URL:nuvio://detail/series/tt31510819
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Nov 20\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-4-20261122@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261122T100000Z
 DTEND:20261122T103000Z
 SUMMARY:The Chosen S06E04 - TBA
-LOCATION:The Chosen Trailer
-URL:https://www.youtube.com/watch?v=K1-FoFj8Jbo
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt5622316\nOfficial release: Sun Nov 22\, 12:00 AM PT
+URL:nuvio://detail/series/tt5622316
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 22\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-5-20261129@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261129T100000Z
 DTEND:20261129T103000Z
 SUMMARY:The Chosen S06E05 - TBA
-LOCATION:The Chosen Trailer
-URL:https://www.youtube.com/watch?v=K1-FoFj8Jbo
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt5622316\nOfficial release: Sun Nov 29\, 12:00 AM PT
+URL:nuvio://detail/series/tt5622316
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 29\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-6-20261206@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261206T100000Z
 DTEND:20261206T103000Z
 SUMMARY:The Chosen S06E06 - TBA
-LOCATION:The Chosen Trailer
-URL:https://www.youtube.com/watch?v=K1-FoFj8Jbo
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt5622316\nOfficial release: Sun Dec 06\, 12:00 AM PT
+URL:nuvio://detail/series/tt5622316
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Dec 06\, 12:00 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2803067-1-1-20261218@tyson-calendar
-DTSTAMP:20261017T044842Z
+DTSTAMP:20261017T045034Z
 DTSTART:20261218T070000Z
 DTEND:20261218T073000Z
 SUMMARY:Frisco King S01E01 - TBA
-LOCATION:Frisco King Trailer
-URL:https://www.youtube.com/watch?v=RHYQYYm5jLM
-DESCRIPTION:Open in Nuvio: nuvio://detail/series/tt37196475\nOfficial release: Thu Dec 17\, 09:00 PM PT
+URL:nuvio://detail/series/tt37196475
+DESCRIPTION:Trailer: https://www.youtube.com/watch?v=RHYQYYm5jLM\nOfficial release: Thu Dec 17\, 09:00 PM PT
 END:VEVENT
 END:VCALENDAR
