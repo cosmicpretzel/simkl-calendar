@@ -1,0 +1,23 @@
+{
+ "id": "com.tyson.simklreleases",
+ "version": "1.0.0",
+ "name": "SIMKL Releases",
+ "description": "Your upcoming movies and episodes from SIMKL, soonest first.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "series",
+   "id": "simkl-releases",
+   "name": "SIMKL Releases"
+  }
+ ]
+}
