@@ -1,7 +1,7 @@
 {
  "id": "com.tyson.simklreleases",
- "version": "1.3.0",
- "name": "SIMKL Releases",
+ "version": "1.3.1",
+ "name": "SIMKL Calendar",
  "logo": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/logo.jpg",
  "description": "Your upcoming movies and episodes from SIMKL, soonest first.",
  "resources": [
@@ -18,7 +18,7 @@
   {
    "type": "series",
    "id": "simkl-releases",
-   "name": "SIMKL Releases"
+   "name": "SIMKL Calendar"
   },
   {
    "type": "series",
