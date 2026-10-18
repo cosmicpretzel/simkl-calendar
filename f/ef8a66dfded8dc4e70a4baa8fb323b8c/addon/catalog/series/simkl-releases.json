@@ -1,30 +1,12 @@
 {
  "metas": [
   {
-   "id": "tt2056785",
-   "type": "movie",
-   "name": "Wildwood",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt2056785.jpg?v=773ab108",
-   "background": "https://images.metahub.space/background/medium/tt2056785/img",
-   "description": "Releases October 18, 2026",
-   "releaseInfo": "Soon"
-  },
-  {
-   "id": "tt34890576",
-   "type": "movie",
-   "name": "Clayface",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt34890576.jpg?v=46408546",
-   "background": "https://images.metahub.space/background/medium/tt34890576/img",
-   "description": "Releases October 20, 2026",
-   "releaseInfo": "In 2 Days"
-  },
-  {
    "id": "tt11743610",
    "type": "series",
    "name": "The Terminal List",
    "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11743610.jpg?v=46408546",
    "background": "https://images.metahub.space/background/medium/tt11743610/img",
-   "description": "Next episode: S02E01 \u00b7 ROMULUS S.V. \u00b7 Tue Oct 20, 09:00 PM PT",
+   "description": "Next episode: S02E01 \u00b7 ROMULUS S.V. \u00b7 Premiere \ud83c\udfac \u00b7 Tue Oct 20, 09:00 PM PT",
    "releaseInfo": "In 2 Days"
   },
   {
@@ -37,15 +19,6 @@
    "releaseInfo": "In 3 Days"
   },
   {
-   "id": "tt43655467",
-   "type": "movie",
-   "name": "Ali G: Who Iz I?",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt43655467.jpg?v=cad9f5ea",
-   "background": "https://images.metahub.space/background/medium/tt43655467/img",
-   "description": "Releases October 21, 2026",
-   "releaseInfo": "In 3 Days"
-  },
-  {
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
@@ -55,48 +28,12 @@
    "releaseInfo": "In 5 Days"
   },
   {
-   "id": "tt38686316",
-   "type": "movie",
-   "name": "Ghost Soldier",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt38686316.jpg?v=83832368",
-   "background": "https://images.metahub.space/background/medium/tt38686316/img",
-   "description": "Releases November 03, 2026",
-   "releaseInfo": "In 2 Weeks"
-  },
-  {
-   "id": "tt38773219",
-   "type": "movie",
-   "name": "Ebenezer",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt38773219.jpg?v=2544a301",
-   "background": "https://images.metahub.space/background/medium/tt38773219/img",
-   "description": "Releases November 10, 2026",
-   "releaseInfo": "In 3 Weeks"
-  },
-  {
-   "id": "tt34385689",
-   "type": "movie",
-   "name": "Paper Tiger",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt34385689.jpg?v=dd8f9465",
-   "background": "https://images.metahub.space/background/medium/tt34385689/img",
-   "description": "Releases November 12, 2026",
-   "releaseInfo": "In 4 Weeks"
-  },
-  {
    "id": "tt5622316",
    "type": "series",
    "name": "The Chosen",
    "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt5622316.jpg?v=e4f17a7c",
    "background": "https://images.metahub.space/background/medium/tt5622316/img",
-   "description": "Next episode: S06E01 \u00b7 TBA \u00b7 Sun Nov 15, 12:00 AM PT",
-   "releaseInfo": "In 1 Month"
-  },
-  {
-   "id": "tt32558705",
-   "type": "movie",
-   "name": "The Hunger Games: Sunrise on the Reaping",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt32558705.jpg?v=e4f17a7c",
-   "background": "https://images.metahub.space/background/medium/tt32558705/img",
-   "description": "Releases November 17, 2026",
+   "description": "Next episode: S06E01 \u00b7 TBA \u00b7 Premiere \ud83c\udfac \u00b7 Sun Nov 15, 12:00 AM PT",
    "releaseInfo": "In 1 Month"
   },
   {
@@ -114,7 +51,7 @@
    "name": "Frisco King",
    "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt37196475.jpg?v=d62f200d",
    "background": "https://images.metahub.space/background/medium/tt37196475/img",
-   "description": "Next episode: S01E01 \u00b7 TBA \u00b7 Thu Dec 17, 09:00 PM PT",
+   "description": "Next episode: S01E01 \u00b7 TBA \u00b7 Premiere \ud83c\udfac \u00b7 Thu Dec 17, 09:00 PM PT",
    "releaseInfo": "In 2 Months"
   }
  ]
