@@ -1,15 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt45368240",
-   "type": "movie",
-   "name": "You Can See Everything",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt45368240.jpg?v=ffa73e73",
-   "background": "https://images.metahub.space/background/medium/tt45368240/img",
-   "description": "Releases October 15, 2026",
-   "releaseInfo": "Streams Soon"
-  },
-  {
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
@@ -73,15 +64,6 @@
    "releaseInfo": "In 2 Weeks"
   },
   {
-   "id": "tt24818230",
-   "type": "movie",
-   "name": "Madden",
-   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt24818230.jpg?v=2544a301",
-   "background": "https://images.metahub.space/background/medium/tt24818230/img",
-   "description": "Releases November 10, 2026",
-   "releaseInfo": "In 3 Weeks"
-  },
-  {
    "id": "tt38773219",
    "type": "movie",
    "name": "Ebenezer",
@@ -115,6 +97,15 @@
    "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt32558705.jpg?v=e4f17a7c",
    "background": "https://images.metahub.space/background/medium/tt32558705/img",
    "description": "Releases November 17, 2026",
+   "releaseInfo": "In 1 Month"
+  },
+  {
+   "id": "tt24818230",
+   "type": "movie",
+   "name": "Madden",
+   "poster": "https://thenosyt.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt24818230.jpg?v=e4f17a7c",
+   "background": "https://images.metahub.space/background/medium/tt24818230/img",
+   "description": "Releases November 18, 2026",
    "releaseInfo": "In 1 Month"
   },
   {
