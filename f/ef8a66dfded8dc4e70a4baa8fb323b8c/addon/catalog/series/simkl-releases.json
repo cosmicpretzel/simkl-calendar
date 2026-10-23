@@ -10,22 +10,22 @@
    "releaseInfo": "Now In 4K"
   },
   {
-   "id": "tt11704040",
-   "type": "series",
-   "name": "Love is Blind",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=77dc5a6b",
-   "background": "https://images.metahub.space/background/medium/tt11704040/img",
-   "description": "Now In 1080p \u00b7 Next episode: S11E06 \u00b7 When You Know You Know \u00b7 Wed Oct 21, 12:00 AM PT",
-   "releaseInfo": "Now In 1080p"
-  },
-  {
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=1186b780",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=40ac9edb",
    "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "description": "Next episode: S02E06 \u00b7 A Different Corner \u00b7 Fri Oct 23, 12:00 AM PT",
-   "releaseInfo": "Tomorrow"
+   "description": "Now In 1080p \u00b7 Next episode: S02E06 \u00b7 A Different Corner \u00b7 Fri Oct 23, 12:00 AM PT",
+   "releaseInfo": "Now In 1080p"
+  },
+  {
+   "id": "tt11704040",
+   "type": "series",
+   "name": "Love is Blind",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=dfbeaf5a",
+   "background": "https://images.metahub.space/background/medium/tt11704040/img",
+   "description": "Next episode: S11E09 \u00b7 Episode 9 \u00b7 Wed Oct 28, 12:00 AM PT",
+   "releaseInfo": "In 5 Days"
   },
   {
    "id": "tt5622316",
@@ -61,6 +61,15 @@
    "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt37196475.jpg?v=0a186e0d",
    "background": "https://images.metahub.space/background/medium/tt37196475/img",
    "description": "Next episode: S01E01 \u00b7 TBA \u00b7 Thu Dec 17, 09:00 PM PT",
+   "releaseInfo": "In 2 Months"
+  },
+  {
+   "id": "tt36408401",
+   "type": "movie",
+   "name": "The FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt36408401.jpg?v=3dcd5093",
+   "background": "https://images.metahub.space/background/medium/tt36408401/img",
+   "description": "Releases December 23, 2026",
    "releaseInfo": "In 2 Months"
   }
  ]
