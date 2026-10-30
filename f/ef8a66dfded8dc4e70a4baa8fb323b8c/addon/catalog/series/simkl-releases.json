@@ -1,15 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt11704040",
-   "type": "series",
-   "name": "Love is Blind",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=77dc5a6b",
-   "background": "https://images.metahub.space/background/medium/tt11704040/img",
-   "description": "Now In 1080p \u00b7 Next episode: S11E09 \u00b7 Buzz Kill \u00b7 Wed Oct 28, 12:00 AM PT",
-   "releaseInfo": "Now In 1080p"
-  },
-  {
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
@@ -22,10 +13,19 @@
    "id": "tt33484648",
    "type": "series",
    "name": "Homestead: The Series",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=ba6fe238",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=6223a5c2",
    "background": "https://images.metahub.space/background/medium/tt33484648/img",
    "description": "Next episode: S02E01 \u00b7 TBA \u00b7 Mon Nov 02, 09:00 PM PT",
-   "releaseInfo": "In 4 Days"
+   "releaseInfo": "In 3 Days"
+  },
+  {
+   "id": "tt11704040",
+   "type": "series",
+   "name": "Love is Blind",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=dfbeaf5a",
+   "background": "https://images.metahub.space/background/medium/tt11704040/img",
+   "description": "Next episode: S11E12 \u00b7 Episode 12 \u00b7 Wed Nov 04, 12:00 AM PT",
+   "releaseInfo": "In 5 Days"
   },
   {
    "id": "tt5622316",
