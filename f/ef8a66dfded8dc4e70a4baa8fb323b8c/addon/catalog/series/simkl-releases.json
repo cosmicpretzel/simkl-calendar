@@ -1,48 +1,48 @@
 {
  "metas": [
   {
-   "id": "tt31510819",
-   "type": "series",
-   "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=03f4d411",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "description": "Now In 4K \u00b7 Next episode: S02E07 \u00b7 Ace of Spades \u00b7 Fri Oct 30, 12:00 AM PT",
-   "releaseInfo": "Now In 4K"
-  },
-  {
    "id": "tt29373684",
    "type": "movie",
    "name": "Hunting Matthew Nichols",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt29373684.jpg?v=9486dd00",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt29373684.jpg?v=86df4d5a",
    "background": "https://images.metahub.space/background/medium/tt29373684/img",
-   "description": "Releases October 31, 2026",
-   "releaseInfo": "Streams Soon"
+   "description": "Now In 1080p \u00b7 Releases October 31, 2026",
+   "releaseInfo": "Now In 1080p"
   },
   {
    "id": "tt33484648",
    "type": "series",
    "name": "Homestead: The Series",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=01dff7ed",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=1186b780",
    "background": "https://images.metahub.space/background/medium/tt33484648/img",
    "description": "Next episode: S02E01 \u00b7 TBA \u00b7 Mon Nov 02, 09:00 PM PT",
-   "releaseInfo": "In 2 Days"
+   "releaseInfo": "Tomorrow"
   },
   {
    "id": "tt33184695",
    "type": "movie",
    "name": "Rolling Loud: The Movie",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33184695.jpg?v=df891d42",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33184695.jpg?v=a7740237",
    "background": "https://images.metahub.space/background/medium/tt33184695/img",
    "description": "Releases November 03, 2026",
-   "releaseInfo": "In 3 Days"
+   "releaseInfo": "In 2 Days"
   },
   {
    "id": "tt11704040",
    "type": "series",
    "name": "Love is Blind",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=8a4d3799",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=e2ba0894",
    "background": "https://images.metahub.space/background/medium/tt11704040/img",
    "description": "Next episode: S11E12 \u00b7 Episode 12 \u00b7 Wed Nov 04, 12:00 AM PT",
+   "releaseInfo": "In 3 Days"
+  },
+  {
+   "id": "tt31510819",
+   "type": "series",
+   "name": "MobLand",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=ba6fe238",
+   "background": "https://images.metahub.space/background/medium/tt31510819/img",
+   "description": "Next episode: S02E08 \u00b7 We Don't Talk Anymore \u00b7 Fri Nov 06, 12:00 AM PT",
    "releaseInfo": "In 4 Days"
   },
   {
@@ -76,10 +76,10 @@
    "id": "tt24818230",
    "type": "movie",
    "name": "Madden",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt24818230.jpg?v=05a1c42f",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt24818230.jpg?v=461e9a32",
    "background": "https://images.metahub.space/background/medium/tt24818230/img",
    "description": "Releases November 18, 2026",
-   "releaseInfo": "In 3 Weeks"
+   "releaseInfo": "In 2 Weeks"
   },
   {
    "id": "tt32213169",
