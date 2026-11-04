@@ -6,11 +6,11 @@ X-WR-CALNAME:SIMKL Calendar
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-1-20261103@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261103T070000Z
 DTEND:20261103T073000Z
 SUMMARY:Homestead: The Series Episode 1 - Horsemen of the Apocalypse · Premiere 🎬
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Mon Nov 02\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -1335,11 +1335,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2550967-20261103@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261103T125832Z
 DTEND:20261103T145832Z
 SUMMARY:Rolling Loud: The Movie (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzMzE4NDY5NQ%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzMzE4NDY5NQ%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=o_pIiP1A0RY\nOfficial release date: November 03\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -2680,11 +2680,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-12-20261104@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261104T092124Z
 DTEND:20261104T095124Z
 SUMMARY:☀️ (1080p) Love is Blind Episode 12/13 - Episode 12
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MTE3MDQwNDA%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MTE3MDQwNDA%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Wed Nov 04\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -3454,11 +3454,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-8-20261106@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261106T030000Z
 DTEND:20261106T033000Z
 SUMMARY:MobLand Episode 8/10 - We Don't Talk Anymore
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzE1MTA4MTk%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzE1MTA4MTk%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Nov 06\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -4496,11 +4496,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-1251302-11-13-20261108@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261108T100000Z
 DTEND:20261108T103000Z
 SUMMARY:Love is Blind Episode 13/13 - The Reunion · Finale 🏁
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MTE3MDQwNDA%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MTE3MDQwNDA%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=s2eBAFt3L_0\nOfficial release: Sun Nov 08\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -5270,11 +5270,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-2-20261110@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261110T070000Z
 DTEND:20261110T073000Z
 SUMMARY:Homestead: The Series Episode 2 - In the Last Days\, Heed God
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Mon Nov 09\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -6599,11 +6599,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-3081853-20261110@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261110T125832Z
 DTEND:20261110T145832Z
 SUMMARY:Angel and the Badman (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzOTg1MDI0MA%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzOTg1MDI0MA%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=3hwFBZ6475g\nOfficial release date: November 10\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -7709,11 +7709,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-9-20261113@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261113T030000Z
 DTEND:20261113T033000Z
 SUMMARY:MobLand Episode 9/10 - Nervous Breakdown
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzE1MTA4MTk%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzE1MTA4MTk%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Nov 13\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -8751,11 +8751,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-1-20261115@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261115T100000Z
 DTEND:20261115T103000Z
 SUMMARY:The Chosen Episode 1 - TBA · Premiere 🎬
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 15\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -9942,11 +9942,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-2-20261115@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261115T100000Z
 DTEND:20261115T103000Z
 SUMMARY:The Chosen Episode 2 - TBA
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 15\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -11133,11 +11133,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-3-20261115@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261115T100000Z
 DTEND:20261115T103000Z
 SUMMARY:The Chosen Episode 3 - TBA
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 15\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -12324,11 +12324,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-3-20261117@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261117T070000Z
 DTEND:20261117T073000Z
 SUMMARY:Homestead: The Series Episode 3 - Charlie Mike
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Mon Nov 16\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -13653,11 +13653,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2604475-20261117@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261117T125832Z
 DTEND:20261117T145832Z
 SUMMARY:The Odyssey (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzMzc2NDI1OA%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzMzc2NDI1OA%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Mzw2ttJD2qQ\nOfficial release date: November 17\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -14370,11 +14370,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2174995-20261118@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261118T125832Z
 DTEND:20261118T145832Z
 SUMMARY:Madden (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQyNDgxODIzMA%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQyNDgxODIzMA%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=xzh7HzLXXpk\nOfficial release date: November 18\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -15981,11 +15981,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2390613-2-10-20261120@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261120T030000Z
 DTEND:20261120T033000Z
 SUMMARY:MobLand Episode 10/10 - TBA · Finale 🏁
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzE1MTA4MTk%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzE1MTA4MTk%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=qKGgw7Ob5f4\nOfficial release: Fri Nov 20\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -17023,11 +17023,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-4-20261122@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261122T100000Z
 DTEND:20261122T103000Z
 SUMMARY:The Chosen Episode 4 - TBA
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 22\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -18214,11 +18214,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-4-20261124@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261124T070000Z
 DTEND:20261124T073000Z
 SUMMARY:Homestead: The Series Episode 4 - The Grindstone of Survival
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Mon Nov 23\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -19543,11 +19543,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2446085-20261124@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261124T125832Z
 DTEND:20261124T145832Z
 SUMMARY:Way of the Warrior Kid (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzMjIxMzE2OQ%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzMjIxMzE2OQ%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=R1ECMLrwDYQ\nOfficial release date: November 24\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -20691,11 +20691,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-5-20261127@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261127T070000Z
 DTEND:20261127T073000Z
 SUMMARY:Homestead: The Series Episode 5 - Another Way
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Thu Nov 26\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -22020,11 +22020,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-5-20261129@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261129T100000Z
 DTEND:20261129T103000Z
 SUMMARY:The Chosen Episode 5 - TBA
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Nov 29\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -23211,11 +23211,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-6-20261201@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261201T070000Z
 DTEND:20261201T073000Z
 SUMMARY:Homestead: The Series Episode 6 - Exile
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Mon Nov 30\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -24540,11 +24540,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-995148-6-6-20261206@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261206T100000Z
 DTEND:20261206T103000Z
 SUMMARY:The Chosen Episode 6 - TBA
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0NTYyMjMxNg%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=K1-FoFj8Jbo\nOfficial release: Sun Dec 06\, 12:00 AM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -25731,11 +25731,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-7-20261208@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261208T070000Z
 DTEND:20261208T073000Z
 SUMMARY:Homestead: The Series Episode 7 - A Heart of War
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Mon Dec 07\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -27060,11 +27060,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-1534684-20261208@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261208T125832Z
 DTEND:20261208T145832Z
 SUMMARY:Wildwood (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQyMDU2Nzg1
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQyMDU2Nzg1
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=dtr5JL1zkiM\nOfficial release date: December 08\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -28484,11 +28484,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2666809-2-8-20261215@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261215T070000Z
 DTEND:20261215T073000Z
 SUMMARY:Homestead: The Series Episode 8 - A Heart of Peace
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzM0ODQ2NDg%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=Tdji_Mte0KU\nOfficial release: Mon Dec 14\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -29813,11 +29813,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-show-2803067-1-1-20261218@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261218T070000Z
 DTEND:20261218T073000Z
 SUMMARY:Frisco King Episode 1 - Spend a Night In · Premiere 🎬
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzcxOTY0NzU%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvc2VyaWVzL3R0MzcxOTY0NzU%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=RHYQYYm5jLM\nOfficial release: Thu Dec 17\, 09:00 PM PT
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -31051,11 +31051,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-1852647-20261218@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261218T125832Z
 DTEND:20261218T145832Z
 SUMMARY:Ray Gunn (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQxODI3MDU0Mg%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQxODI3MDU0Mg%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=VL-xjzQFWsY\nOfficial release date: December 18\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
@@ -32285,11 +32285,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simkl-movie-2745793-20261223@tyson-calendar
-DTSTAMP:20261104T122003Z
+DTSTAMP:20261104T130717Z
 DTSTART:20261223T125832Z
 DTEND:20261223T145832Z
 SUMMARY:The FURTHER MIS-ADVENTURES OF CLIFF BOOTH (official release)
-URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media_814721354.app&container-folder-name=4016E5B5-1CC4-456E-88ED-BD2DA1E56BA2&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzNjQwODQwMQ%3D%3D
+URL:livecontainer://livecontainer-launch?bundle-name=com.nuvio.media.app&container-folder-name=0651D941-5763-4B19-B4CD-F0923DBEDCA5&open-url=bnV2aW86Ly9kZXRhaWwvbW92aWUvdHQzNjQwODQwMQ%3D%3D
 DESCRIPTION:🍿 Trailer >>> https://www.youtube.com/watch?v=hlOfU1Lv9Pc\nOfficial release date: December 23\, 2026
 ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:/9j/4AAQSkZJRgABAQAA
  AQABAAD/2wBDAAgFBgcGBQgHBgcJCAgJDBMMDAsLDBgREg4THBgdHRsYGxofIywlHyEqIRobJj
