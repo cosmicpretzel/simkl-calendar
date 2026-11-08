@@ -1,6 +1,15 @@
 {
  "metas": [
   {
+   "id": "tt11704040",
+   "type": "series",
+   "name": "Love is Blind",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=3a283a75",
+   "background": "https://images.metahub.space/background/medium/tt11704040/img",
+   "description": "Next episode: S11E13 \u00b7 The Reunion \u00b7 Sun Nov 08, 12:00 AM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
    "id": "tt33184695",
    "type": "movie",
    "name": "Rolling Loud: The Movie",
