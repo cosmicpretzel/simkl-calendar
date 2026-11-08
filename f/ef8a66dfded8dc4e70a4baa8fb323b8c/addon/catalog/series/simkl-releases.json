@@ -19,31 +19,31 @@
    "releaseInfo": "Now In 1080p"
   },
   {
-   "id": "tt31510819",
-   "type": "series",
-   "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=03f4d411",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "description": "Now In 4K \u00b7 Next episode: S02E08 \u00b7 We Don't Talk Anymore \u00b7 Fri Nov 06, 12:00 AM PT",
-   "releaseInfo": "Now In 4K"
-  },
-  {
    "id": "tt11704040",
    "type": "series",
    "name": "Love is Blind",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=05b7c514",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=16da66f9",
    "background": "https://images.metahub.space/background/medium/tt11704040/img",
    "description": "Next episode: S11E13 \u00b7 The Reunion \u00b7 Sun Nov 08, 12:00 AM PT",
-   "releaseInfo": "Tomorrow"
+   "releaseInfo": "Soon"
   },
   {
    "id": "tt33484648",
    "type": "series",
    "name": "Homestead: The Series",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=01dff7ed",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=1186b780",
    "background": "https://images.metahub.space/background/medium/tt33484648/img",
    "description": "Next episode: S02E02 \u00b7 In the Last Days\\, Heed God \u00b7 Mon Nov 09, 09:00 PM PT",
-   "releaseInfo": "In 2 Days"
+   "releaseInfo": "Tomorrow"
+  },
+  {
+   "id": "tt31510819",
+   "type": "series",
+   "name": "MobLand",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=ba6fe238",
+   "background": "https://images.metahub.space/background/medium/tt31510819/img",
+   "description": "Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Fri Nov 13, 12:00 AM PT",
+   "releaseInfo": "In 4 Days"
   },
   {
    "id": "tt5622316",
@@ -67,10 +67,10 @@
    "id": "tt24818230",
    "type": "movie",
    "name": "Madden",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt24818230.jpg?v=461e9a32",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt24818230.jpg?v=ceeae17b",
    "background": "https://images.metahub.space/background/medium/tt24818230/img",
    "description": "Releases November 18, 2026",
-   "releaseInfo": "In 2 Weeks"
+   "releaseInfo": "In 1 Week"
   },
   {
    "id": "tt37510326",
@@ -130,10 +130,10 @@
    "id": "tt36408401",
    "type": "movie",
    "name": "The FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt36408401.jpg?v=3dcd5093",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt36408401.jpg?v=598fed70",
    "background": "https://images.metahub.space/background/medium/tt36408401/img",
    "description": "Releases December 23, 2026",
-   "releaseInfo": "In 2 Months"
+   "releaseInfo": "In 1 Month"
   }
  ]
 }
