@@ -31,10 +31,10 @@
    "id": "tt33484648",
    "type": "series",
    "name": "Homestead: The Series",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=4b4a7cdb",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=9f54b6f2",
    "background": "https://images.metahub.space/background/medium/tt33484648/img",
    "description": "Next episode: S02E02 \u00b7 In the Last Days\\, Heed God \u00b7 Mon Nov 09, 09:00 PM PT",
-   "releaseInfo": "In 22 Hours"
+   "releaseInfo": "In 16 Hours"
   },
   {
    "id": "tt31510819",
@@ -73,15 +73,6 @@
    "releaseInfo": "In 1 Week"
   },
   {
-   "id": "tt37510326",
-   "type": "movie",
-   "name": "The Social Reckoning",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt37510326.jpg?v=461e9a32",
-   "background": "https://images.metahub.space/background/medium/tt37510326/img",
-   "description": "Releases November 23, 2026",
-   "releaseInfo": "In 2 Weeks"
-  },
-  {
    "id": "tt32213169",
    "type": "movie",
    "name": "Way of the Warrior Kid",
@@ -91,13 +82,13 @@
    "releaseInfo": "In 2 Weeks"
   },
   {
-   "id": "tt34890576",
+   "id": "tt37510326",
    "type": "movie",
-   "name": "Clayface",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt34890576.jpg?v=598fed70",
-   "background": "https://images.metahub.space/background/medium/tt34890576/img",
-   "description": "Releases December 07, 2026",
-   "releaseInfo": "In 1 Month"
+   "name": "The Social Reckoning",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt37510326.jpg?v=461e9a32",
+   "background": "https://images.metahub.space/background/medium/tt37510326/img",
+   "description": "Releases November 24, 2026",
+   "releaseInfo": "In 2 Weeks"
   },
   {
    "id": "tt2056785",
@@ -105,6 +96,15 @@
    "name": "Wildwood",
    "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt2056785.jpg?v=598fed70",
    "background": "https://images.metahub.space/background/medium/tt2056785/img",
+   "description": "Releases December 08, 2026",
+   "releaseInfo": "In 1 Month"
+  },
+  {
+   "id": "tt34890576",
+   "type": "movie",
+   "name": "Clayface",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt34890576.jpg?v=598fed70",
+   "background": "https://images.metahub.space/background/medium/tt34890576/img",
    "description": "Releases December 08, 2026",
    "releaseInfo": "In 1 Month"
   },
