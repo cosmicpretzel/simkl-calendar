@@ -1,6 +1,42 @@
 {
  "metas": [
   {
+   "id": "tt33270224",
+   "type": "series",
+   "name": "Cupertino",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33270224.jpg?v=e171f6ca",
+   "background": "https://images.metahub.space/background/medium/tt33270224/img",
+   "description": "Next episode: S01E06 \u00b7 Harper \u00b7 Sun Nov 08, 07:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
+   "id": "tt40197357",
+   "type": "series",
+   "name": "Scrubs",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt40197357.jpg?v=5de2900b",
+   "background": "https://images.metahub.space/background/medium/tt40197357/img",
+   "description": "Next episode: S02E08 \u00b7 My Emergency \u00b7 Wed Nov 11, 05:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
+   "id": "tt33484648",
+   "type": "series",
+   "name": "Homestead: The Series",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=5de2900b",
+   "background": "https://images.metahub.space/background/medium/tt33484648/img",
+   "description": "Next episode: S02E02 \u00b7 In the Last Days\\, Heed God \u00b7 Mon Nov 09, 09:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
+   "id": "tt21952924",
+   "type": "series",
+   "name": "Phony",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt21952924.jpg?v=e171f6ca",
+   "background": "https://images.metahub.space/background/medium/tt21952924/img",
+   "description": "Next episode: S01E05 \u00b7 House of Dog \u00b7 Mon Nov 09, 09:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
    "id": "tt33184695",
    "type": "movie",
    "name": "Rolling Loud: The Movie",

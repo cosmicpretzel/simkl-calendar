@@ -31,37 +31,64 @@
    "id": "tt33484648",
    "type": "series",
    "name": "Homestead: The Series",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=097cddbb",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=5de2900b",
    "background": "https://images.metahub.space/background/medium/tt33484648/img",
    "description": "Next episode: S02E02 \u00b7 In the Last Days\\, Heed God \u00b7 Mon Nov 09, 09:00 PM PT",
-   "releaseInfo": "In 4 Hours"
+   "releaseInfo": "Streams Soon"
   },
   {
-   "id": "tt31510819",
+   "id": "tt21952924",
    "type": "series",
-   "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=6223a5c2",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "description": "Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Fri Nov 13, 12:00 AM PT",
-   "releaseInfo": "In 3 Days"
-  },
-  {
-   "id": "tt5622316",
-   "type": "series",
-   "name": "The Chosen",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt5622316.jpg?v=ecc66b8a",
-   "background": "https://images.metahub.space/background/medium/tt5622316/img",
-   "description": "Next episode: S06E01 \u00b7 TBA \u00b7 Sun Nov 15, 12:00 AM PT",
-   "releaseInfo": "In 6 Days"
+   "name": "Phony",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt21952924.jpg?v=e171f6ca",
+   "background": "https://images.metahub.space/background/medium/tt21952924/img",
+   "description": "Next episode: S01E05 \u00b7 House of Dog \u00b7 Mon Nov 09, 09:00 PM PT",
+   "releaseInfo": "Streams Soon"
   },
   {
    "id": "tt33764258",
    "type": "movie",
    "name": "The Odyssey",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33764258.jpg?v=ceeae17b",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33764258.jpg?v=079c7ef4",
    "background": "https://images.metahub.space/background/medium/tt33764258/img",
-   "description": "Releases November 17, 2026",
-   "releaseInfo": "In 1 Week"
+   "description": "Now In 4K \u00b7 Releases November 17, 2026",
+   "releaseInfo": "Now In 4K"
+  },
+  {
+   "id": "tt33270224",
+   "type": "series",
+   "name": "Cupertino",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33270224.jpg?v=e171f6ca",
+   "background": "https://images.metahub.space/background/medium/tt33270224/img",
+   "description": "Next episode: S01E06 \u00b7 Harper \u00b7 Sun Nov 08, 07:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
+   "id": "tt40197357",
+   "type": "series",
+   "name": "Scrubs",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt40197357.jpg?v=5de2900b",
+   "background": "https://images.metahub.space/background/medium/tt40197357/img",
+   "description": "Next episode: S02E08 \u00b7 My Emergency \u00b7 Wed Nov 11, 05:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
+   "id": "tt31510819",
+   "type": "series",
+   "name": "MobLand",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=01dff7ed",
+   "background": "https://images.metahub.space/background/medium/tt31510819/img",
+   "description": "Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Fri Nov 13, 12:00 AM PT",
+   "releaseInfo": "In 2 Days"
+  },
+  {
+   "id": "tt5622316",
+   "type": "series",
+   "name": "The Chosen",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt5622316.jpg?v=b5da6665",
+   "background": "https://images.metahub.space/background/medium/tt5622316/img",
+   "description": "Next episode: S06E01 \u00b7 TBA \u00b7 Sun Nov 15, 12:00 AM PT",
+   "releaseInfo": "In 5 Days"
   },
   {
    "id": "tt24818230",
