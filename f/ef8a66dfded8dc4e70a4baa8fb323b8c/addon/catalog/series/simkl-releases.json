@@ -28,15 +28,6 @@
    "releaseInfo": "Streams Soon"
   },
   {
-   "id": "tt21952924",
-   "type": "series",
-   "name": "Phony",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt21952924.jpg?v=e171f6ca",
-   "background": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
-   "description": "Next episode: S01E05 \u00b7 House of Dog \u00b7 Mon Nov 09, 09:00 PM PT",
-   "releaseInfo": "Streams Soon"
-  },
-  {
    "id": "tt33764258",
    "type": "movie",
    "name": "The Odyssey",
@@ -55,31 +46,40 @@
    "releaseInfo": "Streams Soon"
   },
   {
+   "id": "tt21952924",
+   "type": "series",
+   "name": "Phony",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt21952924.jpg?v=e171f6ca",
+   "background": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
+   "description": "Next episode: S01E05 \u00b7 House of Dog \u00b7 Mon Nov 09, 09:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=01dff7ed",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=1186b780",
    "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
    "description": "Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Fri Nov 13, 12:00 AM PT",
-   "releaseInfo": "In 2 Days"
+   "releaseInfo": "Tomorrow"
   },
   {
    "id": "tt33270224",
    "type": "series",
    "name": "Cupertino",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33270224.jpg?v=798fdd47",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33270224.jpg?v=4b8bed2e",
    "background": "https://image.tmdb.org/t/p/original/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
    "description": "Next episode: S01E07 \u00b7 YUNGWOOD \u00b7 Thu Nov 12, 07:00 PM PT",
-   "releaseInfo": "In 2 Days"
+   "releaseInfo": "Tomorrow"
   },
   {
    "id": "tt5622316",
    "type": "series",
    "name": "The Chosen",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt5622316.jpg?v=b5da6665",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt5622316.jpg?v=178ba1f9",
    "background": "https://image.tmdb.org/t/p/original/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
    "description": "Next episode: S06E01 \u00b7 TBA \u00b7 Sun Nov 15, 12:00 AM PT",
-   "releaseInfo": "In 5 Days"
+   "releaseInfo": "In 4 Days"
   },
   {
    "id": "tt24818230",
@@ -112,19 +112,19 @@
    "id": "tt2056785",
    "type": "movie",
    "name": "Wildwood",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt2056785.jpg?v=598fed70",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt2056785.jpg?v=63a3a932",
    "background": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
    "description": "Releases December 08, 2026",
-   "releaseInfo": "In 1 Month"
+   "releaseInfo": "In 4 Weeks"
   },
   {
    "id": "tt34890576",
    "type": "movie",
    "name": "Clayface",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt34890576.jpg?v=598fed70",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt34890576.jpg?v=63a3a932",
    "background": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
    "description": "Releases December 08, 2026",
-   "releaseInfo": "In 1 Month"
+   "releaseInfo": "In 4 Weeks"
   },
   {
    "id": "tt37196475",
