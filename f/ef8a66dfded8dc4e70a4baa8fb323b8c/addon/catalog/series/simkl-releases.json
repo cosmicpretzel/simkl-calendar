@@ -46,15 +46,6 @@
    "releaseInfo": "Now In 4K"
   },
   {
-   "id": "tt33270224",
-   "type": "series",
-   "name": "Cupertino",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33270224.jpg?v=e171f6ca",
-   "background": "https://image.tmdb.org/t/p/original/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
-   "description": "Next episode: S01E06 \u00b7 Harper \u00b7 Sun Nov 08, 07:00 PM PT",
-   "releaseInfo": "Streams Soon"
-  },
-  {
    "id": "tt40197357",
    "type": "series",
    "name": "Scrubs",
@@ -70,6 +61,15 @@
    "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=01dff7ed",
    "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
    "description": "Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Fri Nov 13, 12:00 AM PT",
+   "releaseInfo": "In 2 Days"
+  },
+  {
+   "id": "tt33270224",
+   "type": "series",
+   "name": "Cupertino",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33270224.jpg?v=798fdd47",
+   "background": "https://image.tmdb.org/t/p/original/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
+   "description": "Next episode: S01E07 \u00b7 YUNGWOOD \u00b7 Thu Nov 12, 07:00 PM PT",
    "releaseInfo": "In 2 Days"
   },
   {
