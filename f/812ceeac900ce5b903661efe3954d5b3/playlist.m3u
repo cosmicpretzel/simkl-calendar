@@ -1,4 +1,30 @@
 #EXTM3U x-tvg-url="https://373902.xyz/xmltv.php?username=YRZZjvL9y7yy&password=duF3Ndhi5gtG"
+#EXTINF:-1 tvg-id="FOXKPTV.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/FOX.png" group-title="★ Favorites",FOX
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/34578.m3u8
+#EXTINF:-1 tvg-id="NBCKGW8.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NBC.png" group-title="★ Favorites",NBC
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/27122.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/FoxSports1.us.png" group-title="★ Favorites",FS1
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/963333.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ESPN.us.png" group-title="★ Favorites",ESPN
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/375477.m3u8
+#EXTINF:-1 tvg-id="CBSKOIN.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CBS.png" group-title="★ Favorites",CBS
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/41512.m3u8
+#EXTINF:-1 tvg-id="ABCKATU.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ABC.png" group-title="★ Favorites",ABC
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/40855.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NFLNetwork.us.png" group-title="★ Favorites",NFL Network
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/937145.m3u8
+#EXTINF:-1 tvg-id="USA4K.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/USANetwork.us.png" group-title="★ Favorites",USA
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/2070711.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/TNT.us.png" group-title="★ Favorites",TNT
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/85796.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MLBNetwork.us.png" group-title="★ Favorites",MLB Network
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/45139.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/TBS.us.png" group-title="★ Favorites",TBS
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/23433.m3u8
+#EXTINF:-1 tvg-id="NBCSN.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/NBCSN.us.png" group-title="★ Favorites",NBCSN
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/37228.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CBSSportsNetwork.us.png" group-title="★ Favorites",CBS Sports Network
+https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/54517.m3u8
 #EXTINF:-1 tvg-id="FOXKPTV.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/FOX.png" group-title="NASCAR 🏎️",FOX
 https://373902.xyz/live/YRZZjvL9y7yy/duF3Ndhi5gtG/34578.m3u8
 #EXTINF:-1 tvg-id="FOXWest_KTTV.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/FOX.png" group-title="NASCAR 🏎️",FOX 2
