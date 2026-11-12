@@ -28,31 +28,31 @@
    "releaseInfo": "Now In 4K"
   },
   {
-   "id": "tt40197357",
-   "type": "series",
-   "name": "Scrubs",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt40197357.jpg?v=5de2900b",
-   "background": "https://image.tmdb.org/t/p/original/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
-   "description": "Next episode: S02E08 \u00b7 My Emergency \u00b7 Wed Nov 11, 05:00 PM PT",
-   "releaseInfo": "Streams Soon"
-  },
-  {
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=1f47022b",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=40ac9edb",
    "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-   "description": "Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Thu Nov 12, 07:00 PM PT",
-   "releaseInfo": "In 12 Hours"
+   "description": "Now In 1080p \u00b7 Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Thu Nov 12, 07:00 PM PT",
+   "releaseInfo": "Now In 1080p"
   },
   {
-   "id": "tt33270224",
+   "id": "tt26598805",
    "type": "series",
-   "name": "Cupertino",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33270224.jpg?v=bbc9bf19",
-   "background": "https://image.tmdb.org/t/p/original/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
-   "description": "Next episode: S01E07 \u00b7 YUNGWOOD \u00b7 Thu Nov 12, 07:00 PM PT",
-   "releaseInfo": "In 20 Hours"
+   "name": "Nocturne",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt26598805.jpg?v=e171f6ca",
+   "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+   "description": "Next episode: S01E04 \u00b7 The Courier \u00b7 Thu Nov 12, 09:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
+   "id": "tt10946316",
+   "type": "series",
+   "name": "The Institute",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt10946316.jpg?v=01dff7ed",
+   "background": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+   "description": "Next episode: S02E02 \u00b7 The Sanctuary \u00b7 Sat Nov 14, 09:00 PM PT",
+   "releaseInfo": "In 2 Days"
   },
   {
    "id": "tt5622316",
@@ -70,15 +70,6 @@
    "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=ba6fe238",
    "background": "https://image.tmdb.org/t/p/original/5qPN9G6QfBCFi6nW0webX0r5RUG.jpg",
    "description": "Next episode: S02E03 \u00b7 Charlie Mike \u00b7 Mon Nov 16, 09:00 PM PT",
-   "releaseInfo": "In 4 Days"
-  },
-  {
-   "id": "tt21952924",
-   "type": "series",
-   "name": "Phony",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt21952924.jpg?v=00ed8c08",
-   "background": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
-   "description": "Next episode: S01E06 \u00b7 I'm Right Here \u00b7 Mon Nov 16, 09:00 PM PT",
    "releaseInfo": "In 4 Days"
   },
   {
