@@ -19,15 +19,6 @@
    "releaseInfo": "Now In 1080p"
   },
   {
-   "id": "tt33484648",
-   "type": "series",
-   "name": "Homestead: The Series",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=5de2900b",
-   "background": "https://image.tmdb.org/t/p/original/5qPN9G6QfBCFi6nW0webX0r5RUG.jpg",
-   "description": "Next episode: S02E02 \u00b7 In the Last Days\\, Heed God \u00b7 Mon Nov 09, 09:00 PM PT",
-   "releaseInfo": "Streams Soon"
-  },
-  {
    "id": "tt33764258",
    "type": "movie",
    "name": "The Odyssey",
@@ -52,6 +43,15 @@
    "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt21952924.jpg?v=e171f6ca",
    "background": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
    "description": "Next episode: S01E05 \u00b7 House of Dog \u00b7 Mon Nov 09, 09:00 PM PT",
+   "releaseInfo": "Streams Soon"
+  },
+  {
+   "id": "tt33484648",
+   "type": "series",
+   "name": "Homestead: The Series",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt33484648.jpg?v=5de2900b",
+   "background": "https://image.tmdb.org/t/p/original/5qPN9G6QfBCFi6nW0webX0r5RUG.jpg",
+   "description": "Next episode: S02E02 \u00b7 In the Last Days\\, Heed God \u00b7 Mon Nov 09, 09:00 PM PT",
    "releaseInfo": "Streams Soon"
   },
   {
