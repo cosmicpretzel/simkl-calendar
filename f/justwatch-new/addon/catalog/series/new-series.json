@@ -1,6 +1,33 @@
 {
  "metas": [
   {
+   "id": "tt8014982",
+   "type": "series",
+   "name": "The Body",
+   "poster": "https://images.justwatch.com/poster/348311748/s718/the-body-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/fJz7SZhuVnywlXOz9IYsIE33u8j.jpg",
+   "description": "A group of misbehaving Catholic school girls experience prophetic visions after a dance-team initiation goes wrong, triggering mass hysteria throughout their town. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Nov 11"
+  },
+  {
+   "id": "tt43681696",
+   "type": "series",
+   "name": "Taken: Natalee Holloway",
+   "poster": "https://images.justwatch.com/poster/355784537/s718/taken-natalee-holloway.jpg",
+   "background": "https://image.tmdb.org/t/p/original/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+   "description": "Explores the 2005 disappearance of 18-year-old Natalee Holloway during a graduation trip to Aruba and her mother Beth's two-decade search for answers and justice. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Nov 4"
+  },
+  {
+   "id": "tt50623990",
+   "type": "series",
+   "name": "True Tales of the Mob",
+   "poster": "https://images.justwatch.com/poster/356700870/s718/true-tales-of-the-mob.jpg",
+   "background": "https://image.tmdb.org/t/p/original/3CttqwZMPDICm4aheq1PrLnrV3W.jpg",
+   "description": "These are the real stories of life and death on the mean streets. True Tales of the Mob, hosted by musician, actor and mob aficionado Stevie Van Zandt, exposes the deadly power plays of organized crime in America. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Nov 4"
+  },
+  {
    "id": "tt50369345",
    "type": "series",
    "name": "Cars That Changed History",
@@ -37,6 +64,24 @@
    "releaseInfo": "4K \u00b7 Oct 2"
   },
   {
+   "id": "tt37972251",
+   "type": "series",
+   "name": "War",
+   "poster": "https://images.justwatch.com/poster/354890779/s718/war-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+   "description": "Two top London law firms clash over a shocking divorce case that rocks the legal world, with elite attorneys from Cathcarts and Taylor and Byrne battling for supremacy. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Oct 2"
+  },
+  {
+   "id": "tt21097264",
+   "type": "series",
+   "name": "East of Eden",
+   "poster": "https://images.justwatch.com/poster/345990721/s718/east-of-eden-0.jpg",
+   "background": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+   "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Oct 1"
+  },
+  {
    "id": "tt45124639",
    "type": "series",
    "name": "Chilean Mine Rescue: Race Against Time",
@@ -46,6 +91,15 @@
    "releaseInfo": "4K \u00b7 Sep 25"
   },
   {
+   "id": "tt33539520",
+   "type": "series",
+   "name": "Neagley",
+   "poster": "https://images.justwatch.com/poster/354898861/s718/neagley.jpg",
+   "background": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+   "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Sep 16"
+  },
+  {
    "id": "tt9280400",
    "type": "series",
    "name": "A Killer Story",
@@ -53,6 +107,15 @@
    "background": "https://image.tmdb.org/t/p/original/kFp5nRy5b6xghGKObHsqvcyGlR8.jpg",
    "description": "Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence. Available on HBO Max in 4K.",
    "releaseInfo": "4K \u00b7 Sep 10"
+  },
+  {
+   "id": "tt39555444",
+   "type": "series",
+   "name": "The Airport Chaplain",
+   "poster": "https://images.justwatch.com/poster/349874228/s718/the-airport-chaplain.jpg",
+   "background": "https://image.tmdb.org/t/p/original/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg",
+   "description": "Airport Chaplain Tobias Wallace is convinced the airport couldn\u2019t possibly run without his 24/7 devotion. But new Terminal Manager Mira Ansari-Cole is convinced he\u2019s a walking liability. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 26"
   },
   {
    "id": "tt43659651",
@@ -154,6 +217,15 @@
    "releaseInfo": "4K \u00b7 Jun 7"
   },
   {
+   "id": "tt31631015",
+   "type": "series",
+   "name": "The Witness",
+   "poster": "https://images.justwatch.com/poster/344731789/s718/the-witness.jpg",
+   "background": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+   "description": "With their 2-year-old as the sole witness to her murder, Rachel Nickell's partner fights to protect him amid a flawed investigation. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 4"
+  },
+  {
    "id": "tt34675596",
    "type": "series",
    "name": "Cape Fear",
@@ -217,13 +289,13 @@
    "releaseInfo": "4K \u00b7 May 7"
   },
   {
-   "id": "tt32767294",
+   "id": "tt27331527",
    "type": "series",
-   "name": "Half Man",
-   "poster": "https://images.justwatch.com/poster/343661065/s718/half-man.jpg",
-   "background": "https://image.tmdb.org/t/p/original/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
-   "description": "Ruben turns up at his estranged brother Niall's wedding, acting as a catalyst for a revival of the last 40 years of their relationship. Available on HBO Max in 4K.",
-   "releaseInfo": "4K \u00b7 Apr 28"
+   "name": "Man on Fire",
+   "poster": "https://images.justwatch.com/poster/345456819/s718/man-on-fire.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+   "description": "Follows John Creasy, a wounded former mercenary on a quest to get revenge for the loss of his only companion while defending the daughter of his dead colleague from the forces that tore her family apart. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 30"
   },
   {
    "id": "tt42027958",
@@ -235,13 +307,13 @@
    "releaseInfo": "1080p \u00b7 Apr 28"
   },
   {
-   "id": "tt31631142",
+   "id": "tt32767294",
    "type": "series",
-   "name": "Unchosen",
-   "poster": "https://images.justwatch.com/poster/343797072/s718/unchosen.jpg",
-   "background": "https://image.tmdb.org/t/p/original/vmQOnDaNuzRznzRAUg8GcwIsXV1.jpg",
-   "description": "When a young mother from a sheltered cult crosses paths with a mysterious stranger, she embarks on a risky affair that awakens desires and dark secrets. Available on Netflix in 4K.",
-   "releaseInfo": "4K \u00b7 Apr 21"
+   "name": "Half Man",
+   "poster": "https://images.justwatch.com/poster/343661065/s718/half-man.jpg",
+   "background": "https://image.tmdb.org/t/p/original/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
+   "description": "Ruben turns up at his estranged brother Niall's wedding, acting as a catalyst for a revival of the last 40 years of their relationship. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 28"
   },
   {
    "id": "tt38626699",
@@ -250,6 +322,15 @@
    "poster": "https://images.justwatch.com/poster/356787430/s718/killing-grounds-the-gilgo-beach-murders.jpg",
    "background": "https://image.tmdb.org/t/p/original/lJ6rDjQQmMHz5m4GTPDi6vJXVck.jpg",
    "description": "When a woman vanishes, police find bodies along Long Island's shore. Years of dead ends and overlooked victims stall the case until a new task force spots a suspect hiding in plain sight. With trial looming, insiders and families speak. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 21"
+  },
+  {
+   "id": "tt31631142",
+   "type": "series",
+   "name": "Unchosen",
+   "poster": "https://images.justwatch.com/poster/343797072/s718/unchosen.jpg",
+   "background": "https://image.tmdb.org/t/p/original/vmQOnDaNuzRznzRAUg8GcwIsXV1.jpg",
+   "description": "When a young mother from a sheltered cult crosses paths with a mysterious stranger, she embarks on a risky affair that awakens desires and dark secrets. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Apr 21"
   },
   {
@@ -298,6 +379,15 @@
    "releaseInfo": "4K \u00b7 Apr 8"
   },
   {
+   "id": "tt40392206",
+   "type": "series",
+   "name": "The Predator of Seville",
+   "poster": "https://images.justwatch.com/poster/343054207/s718/el-depredador-de-sevilla.jpg",
+   "background": "https://image.tmdb.org/t/p/original/eMoQ0fBysYIWx4HROKowEDk4iZ4.jpg",
+   "description": "For years, Manuel Blanco was known among international students as \u201cManu White\u201d, a friendly guide who organised cheap trips across Spain. But behind that image lay a far darker story. The case came to light when several young women began to connect experiences of abuse that had previously seemed unrelated. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Mar 27"
+  },
+  {
    "id": "tt41877538",
    "type": "series",
    "name": "Boom Box: Beats and Betrayal",
@@ -305,6 +395,15 @@
    "background": "https://image.tmdb.org/t/p/original/jC65TuN4gHTUZDPfIGUP809YBjJ.jpg",
    "description": "In this gripping true crime series, a London studio attracts young rappers with cheap recording sessions, but all is not as it seems. Available on HBO Max in 1080p.",
    "releaseInfo": "1080p \u00b7 Mar 26"
+  },
+  {
+   "id": "tt32937780",
+   "type": "series",
+   "name": "Something Very Bad Is Going to Happen",
+   "poster": "https://images.justwatch.com/poster/341255798/s718/something-very-bad-is-going-to-happen.jpg",
+   "background": "https://image.tmdb.org/t/p/original/tsatObfXdVBtYmHkjdBEKzKzyNB.jpg",
+   "description": "A certain atmosphere of horror is felt the week before the celebration of an unfortunate wedding. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Mar 26"
   },
   {
    "id": "tt31937954",
@@ -340,6 +439,15 @@
    "poster": "https://images.justwatch.com/poster/343065160/s718/twisted-yoga.jpg",
    "background": "https://image.tmdb.org/t/p/original/7z2cmuREaHOFaDtzTgDNy1wbkc2.jpg",
    "description": "Ex-members of a tantric yoga school speak out about how they went from searching for wellness and community to fearing they'd joined a cult, and seeking justice for alleged abuse and manipulation at the hands of a self-styled guru. Available on Apple TV in 4K.",
+   "releaseInfo": "4K \u00b7 Mar 13"
+  },
+  {
+   "id": "tt40233617",
+   "type": "series",
+   "name": "Dynasty: The Murdochs",
+   "poster": "https://images.justwatch.com/poster/342127628/s718/dynasty-the-murdochs.jpg",
+   "background": "https://image.tmdb.org/t/p/original/drWappLrpSgPuQ3wcY9LbvIwgH7.jpg",
+   "description": "Follows the Murdoch family's behind-the-scenes succession battle as Rupert's adult children compete for control of his media empire, based on thousands of documents, emails and text messages. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Mar 13"
   },
   {
@@ -442,6 +550,24 @@
    "releaseInfo": "1080p \u00b7 Feb 11"
   },
   {
+   "id": "tt27557666",
+   "type": "series",
+   "name": "Lord of the Flies",
+   "poster": "https://images.justwatch.com/poster/341458630/s718/lord-of-the-flies.jpg",
+   "background": "https://image.tmdb.org/t/p/original/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+   "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 8"
+  },
+  {
+   "id": "tt39049745",
+   "type": "series",
+   "name": "Take That",
+   "poster": "https://images.justwatch.com/poster/341886803/s718/take-that.jpg",
+   "background": "https://image.tmdb.org/t/p/original/jyMyGmLQ5kuKURs1OR2me7PHpbV.jpg",
+   "description": "The extraordinary story of the UK's most iconic boy band. The three-part docuseries offers a behind-the-scenes look with Gary, Howard, Mark, Jason and Robbie and how they have fascinated millions of fans. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 27"
+  },
+  {
    "id": "tt39221250",
    "type": "series",
    "name": "History's Deadliest with Ving Rhames",
@@ -460,12 +586,30 @@
    "releaseInfo": "1080p \u00b7 Jan 25"
   },
   {
+   "id": "tt23734948",
+   "type": "series",
+   "name": "The Pendragon Cycle: Rise of the Merlin",
+   "poster": "https://images.justwatch.com/poster/339887859/s718/the-pendragon-cycle-rise-of-the-merlin.jpg",
+   "background": "https://image.tmdb.org/t/p/original/eebiQ5JEaZeVyyxZK1kS9wCoBpb.jpg",
+   "description": "Showcases a retelling of the Arthurian legend set in a Roman-occupied Britain where barbarian invaders threaten to lay claim to the island. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 22"
+  },
+  {
    "id": "tt32499731",
    "type": "series",
    "name": "Steal",
    "poster": "https://images.justwatch.com/poster/340652355/s718/steal.jpg",
    "background": "https://image.tmdb.org/t/p/original/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
    "description": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole \u00a34 billion pounds of people's pensions and why. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 21"
+  },
+  {
+   "id": "tt33517752",
+   "type": "series",
+   "name": "The Beauty",
+   "poster": "https://images.justwatch.com/poster/348452653/s718/the-beauty.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
+   "description": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences. Available on Hulu in 4K.",
    "releaseInfo": "4K \u00b7 Jan 21"
   },
   {
@@ -521,6 +665,15 @@
    "background": "https://image.tmdb.org/t/p/original/cWpmxJNlQWOVF2wPH4TjzIozRZ.jpg",
    "description": "Known for his twisting narratives and intricate plots, Harlan Coben guides audiences through gripping tales of murder and high-profile crimes. Each story is meticulously unraveled to reveal hidden truths. With exclusive interviews and never-before-seen archival materials, each episode provides an in-depth look at stories where nothing is as it seems. Available on Paramount+ in 1080p.",
    "releaseInfo": "1080p \u00b7 Jan 7"
+  },
+  {
+   "id": "tt9169516",
+   "type": "series",
+   "name": "Run Away",
+   "poster": "https://images.justwatch.com/poster/340682854/s718/run-away.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+   "description": "A desperate father searching for his runaway daughter gets caught up in a murder case \u2014 and stumbles upon secrets which could destroy his family for good. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 1"
   }
  ]
 }
