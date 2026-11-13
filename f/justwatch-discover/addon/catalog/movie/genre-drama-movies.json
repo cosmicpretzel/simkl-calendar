@@ -19,15 +19,6 @@
    "releaseInfo": "1080p \u00b7 Jul 24"
   },
   {
-   "id": "tt32150360",
-   "type": "movie",
-   "name": "Color Book",
-   "poster": "https://images.justwatch.com/poster/326396170/s718/color-book.jpg",
-   "background": "https://image.tmdb.org/t/p/original/zBXfCaN0YQMyQppccsEn3q04Ka4.jpg",
-   "description": "A devoted single father adjusts to life after his wife's passing while raising his son with Down Syndrome. They embark on a journey through Metro Atlanta to attend their first baseball game. Available on Netflix in 4K.",
-   "releaseInfo": "4K \u00b7 Jun 19"
-  },
-  {
    "id": "tt30343126",
    "type": "movie",
    "name": "Miss You, Love You",
@@ -37,6 +28,15 @@
    "releaseInfo": "4K \u00b7 May 29"
   },
   {
+   "id": "tt34379307",
+   "type": "movie",
+   "name": "Is God Is",
+   "poster": "https://images.justwatch.com/poster/350642249/s718/is-god-is.jpg",
+   "background": "https://image.tmdb.org/t/p/original/6AS9zVu3rUs7dj4N2ZNnKjI8YZ1.jpg",
+   "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 May 14"
+  },
+  {
    "id": "tt39182249",
    "type": "movie",
    "name": "Kidnapped in Her Own Home: The Martha Carelli Story",
@@ -44,15 +44,6 @@
    "background": "https://image.tmdb.org/t/p/original/oyJ8zJJMAqtHTXZWxlPNhxfnDWN.jpg",
    "description": "Follows Martha Carelli whose life is shattered when an escaped convict takes her hostage and forces her to drive his getaway car. She must outwit her increasingly volatile captor to survive. Available on Netflix in 1080p.",
    "releaseInfo": "1080p \u00b7 May 2"
-  },
-  {
-   "id": "tt21045208",
-   "type": "movie",
-   "name": "Tow",
-   "poster": "https://images.justwatch.com/poster/354620379/s718/tow-2025.jpg",
-   "background": "https://image.tmdb.org/t/p/original/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
-   "description": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she\u2019s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman\u2019s voice in the face of systemic failure. Available on Prime Video in 1080p.",
-   "releaseInfo": "1080p \u00b7 Mar 20"
   },
   {
    "id": "tt4899906",

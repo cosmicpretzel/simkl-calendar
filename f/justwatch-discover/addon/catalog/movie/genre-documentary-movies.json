@@ -19,15 +19,6 @@
    "releaseInfo": "4K \u00b7 Oct 17"
   },
   {
-   "id": "tt34966036",
-   "type": "movie",
-   "name": "Free Leonard Peltier",
-   "poster": "https://images.justwatch.com/poster/330272719/s718/free-leonard-peltier.jpg",
-   "background": "https://image.tmdb.org/t/p/original/qMBGmMch1TlYdtXXFuDFTesGP2L.jpg",
-   "description": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late. Available on Netflix in 4K.",
-   "releaseInfo": "4K \u00b7 Oct 12"
-  },
-  {
    "id": "tt48437216",
    "type": "movie",
    "name": "Instadocs: AI Gone Wild",
@@ -181,22 +172,13 @@
    "releaseInfo": "1080p \u00b7 Apr 14"
   },
   {
-   "id": "tt39368489",
-   "type": "movie",
-   "name": "#Skyking",
-   "poster": "https://images.justwatch.com/poster/344323383/s718/skyking.jpg",
-   "background": "https://image.tmdb.org/t/p/original/nBO0TV1N3BbY25BWLRUqLrefxe8.jpg",
-   "description": "A troubled airport worker's impulsive decision to steal and fly a commercial plane becomes a gripping aerial drama that reflects deeper issues of mental health and working-class struggles in America. Available on Hulu in 1080p.",
-   "releaseInfo": "1080p \u00b7 Apr 14"
-  },
-  {
    "id": "tt37660536",
    "type": "movie",
    "name": "Marc by Sofia",
    "poster": "https://images.justwatch.com/poster/342123078/s718/marc-by-sofia.jpg",
    "background": "https://image.tmdb.org/t/p/original/reSa0DcGoinsguV7QUNeG2V6rp4.jpg",
    "description": "An intimate, unconventional portrait of Marc Jacobs, crafted by Sofia Coppola to capture the genius and singular universe of the iconic American designer. Available on HBO Max in 4K.",
-   "releaseInfo": "4K \u00b7 Mar 27"
+   "releaseInfo": "4K \u00b7 Mar 20"
   },
   {
    "id": "tt39345599",
@@ -206,6 +188,15 @@
    "background": "https://image.tmdb.org/t/p/original/q3VkiqQi7syrVANAK8PjgIry0Vx.jpg",
    "description": "Six couples with unexplained infertility reduce their plastic exposure to improve their chances of conceiving. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Mar 16"
+  },
+  {
+   "id": "tt39368489",
+   "type": "movie",
+   "name": "#Skyking",
+   "poster": "https://images.justwatch.com/poster/344323383/s718/skyking.jpg",
+   "background": "https://image.tmdb.org/t/p/original/nBO0TV1N3BbY25BWLRUqLrefxe8.jpg",
+   "description": "A troubled airport worker's impulsive decision to steal and fly a commercial plane becomes a gripping aerial drama that reflects deeper issues of mental health and working-class struggles in America. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Mar 12"
   },
   {
    "id": "tt39792948",
@@ -233,15 +224,6 @@
    "background": "https://image.tmdb.org/t/p/original/hmO6gcVSYchZXN0N7XcbXtjaC0k.jpg",
    "description": "A trippy tale capturing the creative vision of writer Jack Thorne and director Marc Munden, as a British crew and young cast film this timely adaptation on the remote islands of Malaysia during monsoon season. The crew battle twisters, torrential rain and scary insects to create this hallucinatory fever dream, featuring behind-the-scenes interviews and mesmerising performances by the newbie cast. Available on Netflix in 1080p.",
    "releaseInfo": "1080p \u00b7 Feb 26"
-  },
-  {
-   "id": "tt38590339",
-   "type": "movie",
-   "name": "Famous Last Words: Eric Dane",
-   "poster": "https://images.justwatch.com/poster/341933589/s718/famous-last-words-eric-dane.jpg",
-   "background": "https://image.tmdb.org/t/p/original/bjLHpHct9iz8Pi3feJf9gBcAYnk.jpg",
-   "description": "In this emotional interview, the late actor and ALS advocate Eric Dane shared his final message for the world \u2014 knowing it would not air until his death. Available on Netflix in 4K.",
-   "releaseInfo": "4K \u00b7 Feb 19"
   },
   {
    "id": "tt37886159",
@@ -278,15 +260,6 @@
    "background": "https://image.tmdb.org/t/p/original/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
    "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Jan 11"
-  },
-  {
-   "id": "tt36956674",
-   "type": "movie",
-   "name": "I'm Chevy Chase and You're Not",
-   "poster": "https://images.justwatch.com/poster/338922621/s718/im-chevy-chase-and-youre-not-2026.jpg",
-   "background": "https://image.tmdb.org/t/p/original/1IF24dyK06YXhItRBPV6XM28PYs.jpg",
-   "description": "Chevy Chase rose to fame on SNL before becoming a movie star in the 1980s. Known for physical comedy and deadpan delivery, his career later declined amid reports of difficult behavior. Available on HBO Max in 1080p.",
-   "releaseInfo": "1080p \u00b7 Jan 2"
   }
  ]
 }
