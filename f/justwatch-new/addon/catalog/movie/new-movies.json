@@ -10,6 +10,15 @@
    "releaseInfo": "4K \u00b7 Nov 6"
   },
   {
+   "id": "tt50426072",
+   "type": "movie",
+   "name": "A Story of Derry",
+   "poster": "https://images.justwatch.com/poster/356409958/s718/a-story-of-derry.jpg",
+   "background": "https://images.metahub.space/background/large/tt50426072/img",
+   "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Oct 31"
+  },
+  {
    "id": "tt46027225",
    "type": "movie",
    "name": "Super Scam Me",
@@ -17,6 +26,15 @@
    "background": "https://image.tmdb.org/t/p/original/cLA7LxfHF75U2m6zx9sEd7yhQBL.jpg",
    "description": "After years of reporting on the scam industry, Mariana van Zeller enters one of her most immersive investigations to date. In a real-life social experiment, she builds a new online dating persona and goes undercover as the target of a romance scam to understand and expose the tactics, technologies, and psychological manipulations these criminals utilize to deceive their victims. Available on Hulu in 4K.",
    "releaseInfo": "4K \u00b7 Oct 17"
+  },
+  {
+   "id": "tt48437216",
+   "type": "movie",
+   "name": "Instadocs: AI Gone Wild",
+   "poster": "https://images.justwatch.com/poster/355510022/s718/instadocs-ai-gone-wild.jpg",
+   "background": "https://image.tmdb.org/t/p/original/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
+   "description": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Oct 12"
   },
   {
    "id": "tt39150288",
@@ -64,6 +82,15 @@
    "releaseInfo": "4K \u00b7 Aug 26"
   },
   {
+   "id": "tt32889884",
+   "type": "movie",
+   "name": "Freefall: A Reckoning for Boeing",
+   "poster": "https://images.justwatch.com/poster/347620845/s718/freefall-a-reckoning-for-boeing.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+   "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis.. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 14"
+  },
+  {
    "id": "tt43708434",
    "type": "movie",
    "name": "Instadocs: The Prediction Games",
@@ -71,6 +98,15 @@
    "background": "https://image.tmdb.org/t/p/original/hFKxAbTf5j3RJWFTuqCchn1vzsl.jpg",
    "description": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Jul 26"
+  },
+  {
+   "id": "tt43658408",
+   "type": "movie",
+   "name": "Heartstopper: Ending on a Hi",
+   "poster": "https://images.justwatch.com/poster/355678715/s718/heartstopper-ending-on-a-hi.jpg",
+   "background": "https://image.tmdb.org/t/p/original/tRMliSJgpzpunm8B1Jlhf6nuNZI.jpg",
+   "description": "After the ending of the hit Netflix series \u201cHeartstopper\u201d, this special combines never-before-seen behind-the-scenes footage, cast and crew interviews, larger cultural commentary, and fan input. Available on Netflix in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 24"
   },
   {
    "id": "tt43683795",
@@ -91,6 +127,24 @@
    "releaseInfo": "4K \u00b7 Jul 22"
   },
   {
+   "id": "tt31170389",
+   "type": "movie",
+   "name": "Evil Dead Burn",
+   "poster": "https://images.justwatch.com/poster/331043506/s718/evil-dead-burn.jpg",
+   "background": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+   "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death. Available on HBO Max in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 7"
+  },
+  {
+   "id": "tt32022863",
+   "type": "movie",
+   "name": "Jinx",
+   "poster": "https://images.justwatch.com/poster/353492375/s718/jinx-2026.jpg",
+   "background": "https://images.metahub.space/background/large/tt32022863/img",
+   "description": "Three years ago she stole a secret worth killing for. And now that she's back, this thief for hire has his own reasons for revenge. But just how far can he trust her? Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 1"
+  },
+  {
    "id": "tt43592228",
    "type": "movie",
    "name": "Spark Into a Flame",
@@ -98,6 +152,24 @@
    "background": "https://images.metahub.space/background/large/tt43592228/img",
    "description": "Lin-Manuel Miranda and others set hip-hop and Broadway on fire in The Hamilton Mixtape. Available on Disney+ in 1080p.",
    "releaseInfo": "1080p \u00b7 Jun 15"
+  },
+  {
+   "id": "tt42192165",
+   "type": "movie",
+   "name": "The Murder of Rachel Nickell",
+   "poster": "https://images.justwatch.com/poster/345460130/s718/the-murder-of-rachel-nickell.jpg",
+   "background": "https://image.tmdb.org/t/p/original/yKeYZOmBMQUMKpMlJJF8q4riYpl.jpg",
+   "description": "In 1992, a young mother is killed in broad daylight on London\u2019s Wimbledon Common, leaving her two-year-old toddler as the sole witness. Exploring the shocking real events behind the drama series The Witness, this gripping documentary from BAFTA-nominated director Lucy Bowden examines the notorious, years-long police investigation that followed. Featuring exclusive archive footage, first-hand accounts from family members, and insights from leading forensic experts, the film unpacks how a flawed, highly-publicised inquiry led to the wrong man's prosecution, before a stunning breakthrough reignited a family's fight for justice over a decade later. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 4"
+  },
+  {
+   "id": "tt30343126",
+   "type": "movie",
+   "name": "Miss You, Love You",
+   "poster": "https://images.justwatch.com/poster/345544278/s718/miss-you-love-you.jpg",
+   "background": "https://image.tmdb.org/t/p/original/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
+   "description": "Forced to plan her late husband's funeral with her estranged gay son's assistant, a blunt, grieving widow forms an unlikely bond with the total stranger as confronting their shared grief surfaces deep family secrets and long-held resentments. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 May 29"
   },
   {
    "id": "tt38637477",
@@ -118,6 +190,15 @@
    "releaseInfo": "4K \u00b7 May 14"
   },
   {
+   "id": "tt39382052",
+   "type": "movie",
+   "name": "Marty, Life Is Short",
+   "poster": "https://images.justwatch.com/poster/344670622/s718/marty-life-is-short.jpg",
+   "background": "https://image.tmdb.org/t/p/original/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
+   "description": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 May 11"
+  },
+  {
    "id": "tt38794265",
    "type": "movie",
    "name": "Perilous Passage: Birth in America",
@@ -125,6 +206,24 @@
    "background": "https://images.metahub.space/background/large/tt38794265/img",
    "description": "A look at the impact of an already very precarious maternal health state in the U.S. post-rescinding of Roe v. Wade, via the Supreme Court's Dobbs decision, reversing rights that women have been working so hard to fight for, and that will actually have a deep impact that we can't even see just yet in terms of the numbers of mortality and trauma as a result of those very draconian policies. Available on HBO Max in 1080p.",
    "releaseInfo": "1080p \u00b7 May 4"
+  },
+  {
+   "id": "tt39182249",
+   "type": "movie",
+   "name": "Kidnapped in Her Own Home: The Martha Carelli Story",
+   "poster": "https://images.justwatch.com/poster/346882048/s718/kidnapped-in-her-own-home-the-martha-carelli-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/oyJ8zJJMAqtHTXZWxlPNhxfnDWN.jpg",
+   "description": "Follows Martha Carelli whose life is shattered when an escaped convict takes her hostage and forces her to drive his getaway car. She must outwit her increasingly volatile captor to survive. Available on Netflix in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 2"
+  },
+  {
+   "id": "tt32612507",
+   "type": "movie",
+   "name": "Lee Cronin's the Mummy",
+   "poster": "https://images.justwatch.com/poster/344578777/s718/the-mummy-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+   "description": "Eight years after her sudden disappearance in Egypt, a severely traumatized teenager is returned to her shattered family in New Mexico, triggering a visceral nightmare as they realize she is hosting an ancient, demonic parasite. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 15"
   },
   {
    "id": "tt40706406",
@@ -145,6 +244,15 @@
    "releaseInfo": "4K \u00b7 Mar 20"
   },
   {
+   "id": "tt21045208",
+   "type": "movie",
+   "name": "Tow",
+   "poster": "https://images.justwatch.com/poster/354620379/s718/tow-2025.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
+   "description": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she\u2019s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman\u2019s voice in the face of systemic failure. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Mar 20"
+  },
+  {
    "id": "tt39345599",
    "type": "movie",
    "name": "The Plastic Detox",
@@ -163,6 +271,15 @@
    "releaseInfo": "1080p \u00b7 Mar 12"
   },
   {
+   "id": "tt4899906",
+   "type": "movie",
+   "name": "Mister Gates",
+   "poster": "https://images.justwatch.com/poster/343731530/s718/mister-gates.jpg",
+   "background": "https://image.tmdb.org/t/p/original/l7IxZ3NdYcz09QtKk5T3TjghJuT.jpg",
+   "description": "Real-estate mogul Christopher Gates becomes homeless after losing his family, only to discover the sinister connection to their deaths. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Mar 10"
+  },
+  {
    "id": "tt39792948",
    "type": "movie",
    "name": "Louis Theroux: Inside the Manosphere",
@@ -179,6 +296,15 @@
    "background": "https://image.tmdb.org/t/p/original/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
    "description": "In Angola's mist-shrouded highlands, three KhoiSan master trackers embark on a spiritual quest to rediscover the legendary \"ghost elephants\" of Lisima, creatures presumed lost but remembered in ancestral trance, ritual, and memory. Available on Hulu in 1080p.",
    "releaseInfo": "1080p \u00b7 Feb 27"
+  },
+  {
+   "id": "tt40383471",
+   "type": "movie",
+   "name": "Making of Lord of the Flies",
+   "poster": "https://images.justwatch.com/poster/344825573/s718/making-of-lord-of-the-flies.jpg",
+   "background": "https://image.tmdb.org/t/p/original/hmO6gcVSYchZXN0N7XcbXtjaC0k.jpg",
+   "description": "A trippy tale capturing the creative vision of writer Jack Thorne and director Marc Munden, as a British crew and young cast film this timely adaptation on the remote islands of Malaysia during monsoon season. The crew battle twisters, torrential rain and scary insects to create this hallucinatory fever dream, featuring behind-the-scenes interviews and mesmerising performances by the newbie cast. Available on Netflix in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 26"
   },
   {
    "id": "tt32430579",
@@ -242,6 +368,33 @@
    "background": "https://image.tmdb.org/t/p/original/j4NdsFyYxPYAZl7ZYTD9wq1Tis2.jpg",
    "description": "A teenager investigating mysterious murders in his small town discovers a collection of VHS tapes that could reveal the identity of a notorious serial killer. Available on Prime Video in 1080p.",
    "releaseInfo": "1080p \u00b7 Jan 23"
+  },
+  {
+   "id": "tt36580119",
+   "type": "movie",
+   "name": "The President's Cake",
+   "poster": "https://images.justwatch.com/poster/344003940/s718/the-presidents-cake.jpg",
+   "background": "https://image.tmdb.org/t/p/original/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+   "description": "While people across 1990\u2019s Iraq struggle to survive, 9-year-old Lamia has been selected to prepare a cake to celebrate the President\u2019s birthday. In a landscape of fear and scarcity, where basic ingredients are nearly impossible to find, Lamia sets out on a determined journey throughout the big city in search of eggs, flour, and sugar. Accompanied by her grandmother, her loyal friend Saeed, and her pet rooster Hindi, she navigates vendors and police officers along the way. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 22"
+  },
+  {
+   "id": "tt9525878",
+   "type": "movie",
+   "name": "Sheepdog",
+   "poster": "https://images.justwatch.com/poster/340182842/s718/sheepdog.jpg",
+   "background": "https://image.tmdb.org/t/p/original/d9BMvmi9GAOz7bQ1nTE3cm7B0V7.jpg",
+   "description": "A decorated combat Veteran is court ordered into treatment when an ex-convict shows up on his doorstep and reveals that he must put himself back together again. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 16"
+  },
+  {
+   "id": "tt32141377",
+   "type": "movie",
+   "name": "28 Years Later: The Bone Temple",
+   "poster": "https://images.justwatch.com/poster/335474351/s718/28-years-later-the-bone-temple.jpg",
+   "background": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+   "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 14"
   },
   {
    "id": "tt39307872",
