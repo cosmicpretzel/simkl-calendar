@@ -19,6 +19,15 @@
    "releaseInfo": "4K \u00b7 Oct 2"
   },
   {
+   "id": "tt21097264",
+   "type": "series",
+   "name": "East of Eden",
+   "poster": "https://images.justwatch.com/poster/345990721/s718/east-of-eden-0.jpg",
+   "background": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+   "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Oct 1"
+  },
+  {
    "id": "tt33539520",
    "type": "series",
    "name": "Neagley",
@@ -26,6 +35,15 @@
    "background": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
    "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery. Available on Prime Video in 4K.",
    "releaseInfo": "4K \u00b7 Sep 16"
+  },
+  {
+   "id": "tt39555444",
+   "type": "series",
+   "name": "The Airport Chaplain",
+   "poster": "https://images.justwatch.com/poster/349874228/s718/the-airport-chaplain.jpg",
+   "background": "https://image.tmdb.org/t/p/original/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg",
+   "description": "Airport Chaplain Tobias Wallace is convinced the airport couldn\u2019t possibly run without his 24/7 devotion. But new Terminal Manager Mira Ansari-Cole is convinced he\u2019s a walking liability. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 26"
   },
   {
    "id": "tt27543562",
@@ -91,6 +109,15 @@
    "releaseInfo": "4K \u00b7 May 28"
   },
   {
+   "id": "tt36022742",
+   "type": "series",
+   "name": "Nemesis",
+   "poster": "https://images.justwatch.com/poster/343681331/s718/nemesis-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+   "description": "LA crime drama pits master thief Coltrane Wilder against detective Isaiah Stiles, challenging heist genre norms while examining what drives, sustains and destroys people. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 May 14"
+  },
+  {
    "id": "tt33265765",
    "type": "series",
    "name": "Legends",
@@ -109,6 +136,15 @@
    "releaseInfo": "4K \u00b7 Apr 28"
   },
   {
+   "id": "tt31631142",
+   "type": "series",
+   "name": "Unchosen",
+   "poster": "https://images.justwatch.com/poster/343797072/s718/unchosen.jpg",
+   "background": "https://image.tmdb.org/t/p/original/vmQOnDaNuzRznzRAUg8GcwIsXV1.jpg",
+   "description": "When a young mother from a sheltered cult crosses paths with a mysterious stranger, she embarks on a risky affair that awakens desires and dark secrets. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 21"
+  },
+  {
    "id": "tt10970762",
    "type": "series",
    "name": "The Testaments",
@@ -116,6 +152,15 @@
    "background": "https://image.tmdb.org/t/p/original/uCndE341njionskk1pK9SbHqwZh.jpg",
    "description": "This sequel to \"The Handmaid's Tale\" follows Agnes and Daisy, two teens in Gilead who must navigate an elite preparatory school where obedience is brutally enforced. Their bond becomes the catalyst that will transform their lives. Available on Hulu in 4K.",
    "releaseInfo": "4K \u00b7 Apr 8"
+  },
+  {
+   "id": "tt32937780",
+   "type": "series",
+   "name": "Something Very Bad Is Going to Happen",
+   "poster": "https://images.justwatch.com/poster/341255798/s718/something-very-bad-is-going-to-happen.jpg",
+   "background": "https://image.tmdb.org/t/p/original/tsatObfXdVBtYmHkjdBEKzKzyNB.jpg",
+   "description": "A certain atmosphere of horror is felt the week before the celebration of an unfortunate wedding. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Mar 26"
   },
   {
    "id": "tt31937954",
@@ -215,6 +260,15 @@
    "background": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
    "description": "Two estranged spouses \u2014 one a detective, the other a news reporter \u2014 vie to solve a murder in which each believes the other is a prime suspect. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Jan 8"
+  },
+  {
+   "id": "tt9169516",
+   "type": "series",
+   "name": "Run Away",
+   "poster": "https://images.justwatch.com/poster/340682854/s718/run-away.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+   "description": "A desperate father searching for his runaway daughter gets caught up in a murder case \u2014 and stumbles upon secrets which could destroy his family for good. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 1"
   }
  ]
 }
