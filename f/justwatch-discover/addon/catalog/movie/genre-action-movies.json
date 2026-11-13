@@ -1,6 +1,123 @@
 {
  "metas": [
   {
+   "id": "tt34564059",
+   "type": "movie",
+   "name": "The Runner",
+   "poster": "https://images.justwatch.com/poster/347490591/s718/the-runner-2026-1.jpg",
+   "background": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+   "description": "A high-powered attorney must race through London to save her abducted son while following cryptic commands from a mysterious caller. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Sep 3"
+  },
+  {
+   "id": "tt36415524",
+   "type": "movie",
+   "name": "The Gentleman Thief",
+   "poster": "https://images.justwatch.com/poster/347820861/s718/the-gentleman-thief-2016.jpg",
+   "background": "https://image.tmdb.org/t/p/original/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+   "description": "A retired master thief must protect his impulsive brother from disaster when a 100 million dollar yacht heist spirals into a dangerous web of deception. Old foes emerge as the stakes rise, forcing him to use every trick he knows to stay alive. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 31"
+  },
+  {
+   "id": "tt28638842",
+   "type": "movie",
+   "name": "Borderline",
+   "poster": "https://images.justwatch.com/poster/347129223/s718/borderline-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+   "description": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 17"
+  },
+  {
+   "id": "tt19035928",
+   "type": "movie",
+   "name": "Lucky Strike",
+   "poster": "https://images.justwatch.com/poster/348126370/s718/lucky-strike-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+   "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 26"
+  },
+  {
+   "id": "tt42941113",
+   "type": "movie",
+   "name": "Land of Wolves",
+   "poster": "https://images.justwatch.com/poster/346310152/s718/land-of-wolves-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/FGjyKdJbrrqABr8x4ZwQLGrmbs.jpg",
+   "description": "When a covert rescue mission goes wrong, four former Navy SEALs are captured and thrown into an underground death match. Watched by depraved billionaires, they are forced to fight in a brutal tournament. With no weapons and no way out, the team must rely on their training and unbreakable bond to survive the bloody arena, dismantle the entire operation and reclaim their freedom. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 19"
+  },
+  {
+   "id": "tt36146037",
+   "type": "movie",
+   "name": "Prank Night",
+   "poster": "https://images.justwatch.com/poster/346205420/s718/prank-night.jpg",
+   "background": "https://image.tmdb.org/t/p/original/rB5FS2KlpNK2G3fa4UswQi6Rk2p.jpg",
+   "description": "A young woman seeks revenge on the group of thugs that attacked her family. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 4"
+  },
+  {
+   "id": "tt34378301",
+   "type": "movie",
+   "name": "Jack Ryan: Ghost War",
+   "poster": "https://images.justwatch.com/poster/344441025/s718/tom-clancys-jack-ryan-ghost-war.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+   "description": "Follows Jack Ryan who reunites with CIA operatives to navigate a treacherous web of betrayal against an enemy who knows their every move, facing a past they thought was long put to rest. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 May 20"
+  },
+  {
+   "id": "tt14507394",
+   "type": "movie",
+   "name": "Hellfire",
+   "poster": "https://images.justwatch.com/poster/340724684/s718/hellfire-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+   "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 14"
+  },
+  {
+   "id": "tt35224721",
+   "type": "movie",
+   "name": "Neglected",
+   "poster": "https://images.justwatch.com/poster/346247330/s718/neglected-2025.jpg",
+   "background": "https://image.tmdb.org/t/p/original/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
+   "description": "Detective Shaw discovers a serial killer has buried his son alive and must solve three murders to find him before he dies. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 May 8"
+  },
+  {
+   "id": "tt32192973",
+   "type": "movie",
+   "name": "One Spoon of Chocolate",
+   "poster": "https://images.justwatch.com/poster/331507331/s718/one-spoon-of-chocolate.jpg",
+   "background": "https://image.tmdb.org/t/p/original/5CdoqLaj2VjMkfXMwUtUwziQJDX.jpg",
+   "description": "After serving his country in the Army, Unique is falsely accused of assault and sent to prison. Once released, Unique sets up shop in Ohio to restart his life, linking up with his only surviving relative, Ramsey. There\u2019s something insidious happening in this town, though, as its racist sheriff and his crew of similarly bigoted acolytes all have a knack for violence and share a gruesome secret pertaining to a recent string of missing young Black men. When they set their sights on Unique and turn his life upside down, the former soldier has no choice but to bring the ruckus down on the sheriff and his goons. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 1"
+  },
+  {
+   "id": "tt31689648",
+   "type": "movie",
+   "name": "Dirty Hands",
+   "poster": "https://images.justwatch.com/poster/344395992/s718/dirty-hands-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/9znueRe5J8Q6b11wO3gzpxAWzZz.jpg",
+   "description": "In the underbelly of Chicago, a routine drug deal goes bad for the Denton brothers, Richie and Danny. With a kingpin\u2019s son murdered, a rival gang out for blood, and their own boss trying to clean up their mess, the brothers must fight for their lives if they\u2019re going to survive until morning. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 24"
+  },
+  {
+   "id": "tt32362890",
+   "type": "movie",
+   "name": "Thrash",
+   "poster": "https://images.justwatch.com/poster/343791320/s718/beneath-the-storm.jpg",
+   "background": "https://image.tmdb.org/t/p/original/jlkvoHXKQHsgf15wp1AV1CTk4e7.jpg",
+   "description": "When a catastrophic hurricane slams a coastal town, stranded residents must survive rapidly rising waters swarming with ravenous sharks. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 9"
+  },
+  {
+   "id": "tt39538786",
+   "type": "movie",
+   "name": "Sniper: No Nation",
+   "poster": "https://images.justwatch.com/poster/342947228/s718/sniper-no-nation.jpg",
+   "background": "https://image.tmdb.org/t/p/original/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+   "description": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 7"
+  },
+  {
    "id": "tt4899906",
    "type": "movie",
    "name": "Mister Gates",
@@ -8,6 +125,78 @@
    "background": "https://image.tmdb.org/t/p/original/l7IxZ3NdYcz09QtKk5T3TjghJuT.jpg",
    "description": "Real-estate mogul Christopher Gates becomes homeless after losing his family, only to discover the sinister connection to their deaths. Available on Prime Video in 1080p.",
    "releaseInfo": "1080p \u00b7 Mar 10"
+  },
+  {
+   "id": "tt6374142",
+   "type": "movie",
+   "name": "Misdirection",
+   "poster": "https://images.justwatch.com/poster/341663459/s718/misdirection.jpg",
+   "background": "https://image.tmdb.org/t/p/original/pgVvGaqM77sQR90OeMMVNvQAxbg.jpg",
+   "description": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 10"
+  },
+  {
+   "id": "tt21092406",
+   "type": "movie",
+   "name": "The Distant Jump",
+   "poster": "https://images.justwatch.com/poster/341918851/s718/the-distant-jump.jpg",
+   "background": "https://image.tmdb.org/t/p/original/qnMYT4aTiCwNFneRZ2ET2QT5aDx.jpg",
+   "description": "Jennifer's daughter is abducted by a criminal organization that plans to harvest her supernatural abilities in order to jump into a distant, alternate reality. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 7"
+  },
+  {
+   "id": "tt33987666",
+   "type": "movie",
+   "name": "Speed Faster",
+   "poster": "https://images.justwatch.com/poster/341130363/s718/speed-faster.jpg",
+   "background": "https://image.tmdb.org/t/p/original/nUMclZJRRwREfeP8liJ7LOddjnY.jpg",
+   "description": "Ace and his elite street racers are forced into a dangerous mission by a shadowy group. After Four Amigos they work for the Church of Assassins on an impossible job, only to learn failure was always the plan. Betrayal and survival collide. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 23"
+  },
+  {
+   "id": "tt27497165",
+   "type": "movie",
+   "name": "In Cold Light",
+   "poster": "https://images.justwatch.com/poster/342073641/s718/in-cold-light.jpg",
+   "background": "https://image.tmdb.org/t/p/original/9aJUVBiHkEa7a5qx3uU6r8g33ZQ.jpg",
+   "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 23"
+  },
+  {
+   "id": "tt38238651",
+   "type": "movie",
+   "name": "The Internship",
+   "poster": "https://images.justwatch.com/poster/339839229/s718/the-internship-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+   "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 13"
+  },
+  {
+   "id": "tt28452092",
+   "type": "movie",
+   "name": "Relentless",
+   "poster": "https://images.justwatch.com/poster/340500162/s718/relentless-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/s8tTLypYNkAAF6t2yZbiE67x3XD.jpg",
+   "description": "A homeless man targets a well-off elite in a home invasion. But it will take an unhinged level of brutality to find out his true motive. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 9"
+  },
+  {
+   "id": "tt14850054",
+   "type": "movie",
+   "name": "Greenland 2: Migration",
+   "poster": "https://images.justwatch.com/poster/338321140/s718/greenland-migration.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+   "description": "The surviving Garrity family must leave the safety of the Greenland bunker and embark on a perilous journey across the decimated frozen wasteland of Europe to find a new home. Available on HBO Max in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 7"
+  },
+  {
+   "id": "tt34724163",
+   "type": "movie",
+   "name": "Annihilator Unleashed",
+   "poster": "https://images.justwatch.com/poster/343800891/s718/annihilator-unleashed.jpg",
+   "background": "https://image.tmdb.org/t/p/original/2mSG2hsJFUOYXRP0GqLJNXrAi3i.jpg",
+   "description": "A reclusive ex-cartel enforcer is drawn back into bloodshed when he saves a singer from murder, leading to a confrontation with a vengeful crime lord seeking revenge against him. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 6"
   }
  ]
 }

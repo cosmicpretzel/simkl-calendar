@@ -10,6 +10,15 @@
    "releaseInfo": "4K \u00b7 Nov 6"
   },
   {
+   "id": "tt50245863",
+   "type": "movie",
+   "name": "Instadocs: Jane Doe v. Cornell",
+   "poster": "https://images.justwatch.com/poster/356384079/s718/instadocs-jane-doe-v-cornell.jpg",
+   "background": "https://image.tmdb.org/t/p/original/n2TuBRfBo7HzhRMFEsnDqRTQ5Dy.jpg",
+   "description": "Instadocs goes inside the rape investigation and Jane Doe lawsuit at Cornell University, with the student journalists at the forefront of the story. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Oct 29"
+  },
+  {
    "id": "tt46027225",
    "type": "movie",
    "name": "Super Scam Me",
@@ -26,6 +35,15 @@
    "background": "https://image.tmdb.org/t/p/original/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
    "description": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Oct 12"
+  },
+  {
+   "id": "tt46659729",
+   "type": "movie",
+   "name": "Clown Panic",
+   "poster": "https://images.justwatch.com/poster/355567916/s718/clown-panic.jpg",
+   "background": "https://image.tmdb.org/t/p/original/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+   "description": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Oct 12"
   },
   {
    "id": "tt39150288",
@@ -64,6 +82,15 @@
    "releaseInfo": "4K \u00b7 Sep 9"
   },
   {
+   "id": "tt44942157",
+   "type": "movie",
+   "name": "Instadocs: The Decoy Plane",
+   "poster": "https://images.justwatch.com/poster/351090898/s718/instadocs-the-decoy-plane.jpg",
+   "background": "https://image.tmdb.org/t/p/original/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg",
+   "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Sep 4"
+  },
+  {
    "id": "tt44535692",
    "type": "movie",
    "name": "The Last Salute",
@@ -80,6 +107,15 @@
    "background": "https://image.tmdb.org/t/p/original/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
    "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis.. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Aug 14"
+  },
+  {
+   "id": "tt43657327",
+   "type": "movie",
+   "name": "Big Chicken: A Fast Food Conspiracy",
+   "poster": "https://images.justwatch.com/poster/347627546/s718/big-chicken-a-fast-food-conspiracy.jpg",
+   "background": "https://image.tmdb.org/t/p/original/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+   "description": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving \u2014 and industry behind it. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 5"
   },
   {
    "id": "tt43708434",
@@ -118,6 +154,33 @@
    "releaseInfo": "4K \u00b7 Jul 22"
   },
   {
+   "id": "tt43660866",
+   "type": "movie",
+   "name": "My Grandfather Charles Manson",
+   "poster": "https://images.justwatch.com/poster/347179771/s718/my-grandfather-charles-manson.jpg",
+   "background": "https://image.tmdb.org/t/p/original/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg",
+   "description": "Sophia was always the good girl growing up and her father's rock, but her quest to identify her unknown grandfather results in a shocking discovery: He is Charles Manson, history's most notorious criminal; and he bears striking physical similarities to her beloved father. Sophia's discovery propels her into an underworld of Manson family members and unreliable narrators as she traces her grandfather's life. Along the way, her genetics unlock never-before-released records and audio recordings that illuminate Manson's pathology in startling ways. But the more Sophia uncovers, the more her relationship with her father is strained. For Sophia, there's no turning back. What has she inherited, and how will she reckon with her family legacy? Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 22"
+  },
+  {
+   "id": "tt43636830",
+   "type": "movie",
+   "name": "Unbreakable Me - The Gabrielle Daleman Story",
+   "poster": "https://images.justwatch.com/poster/347476417/s718/unbreakable-me-the-gabrielle-daleman-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/xN3b0ZtXpbHK7wMOkgEhoLNkJVB.jpg",
+   "description": "This inspiring documentary follows Gabrielle Daleman, two-time Canadian champion and 2018 Olympic gold medalist, as she battles injuries, illness, bullying, and mental health struggles. Beyond the medals and spotlight, she faces adversity with courage and grit, rising again and again to prove that her greatest strength isn't just on the ice - it's in her unbreakable spirit. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 27"
+  },
+  {
+   "id": "tt42907611",
+   "type": "movie",
+   "name": "The Welcome Table",
+   "poster": "https://images.justwatch.com/poster/346623216/s718/the-welcome-table.jpg",
+   "background": "https://image.tmdb.org/t/p/original/ubuYtXNrjA8Nxq4XHfXhbXpuIkW.jpg",
+   "description": "Tells the story of climate refugees across six continents, celebrating the voices and experiences of people living at the forefront of the climate crisis, displaced from their homes by climate disasters. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 23"
+  },
+  {
    "id": "tt43592228",
    "type": "movie",
    "name": "Spark Into a Flame",
@@ -134,6 +197,15 @@
    "background": "https://image.tmdb.org/t/p/original/yKeYZOmBMQUMKpMlJJF8q4riYpl.jpg",
    "description": "In 1992, a young mother is killed in broad daylight on London\u2019s Wimbledon Common, leaving her two-year-old toddler as the sole witness. Exploring the shocking real events behind the drama series The Witness, this gripping documentary from BAFTA-nominated director Lucy Bowden examines the notorious, years-long police investigation that followed. Featuring exclusive archive footage, first-hand accounts from family members, and insights from leading forensic experts, the film unpacks how a flawed, highly-publicised inquiry led to the wrong man's prosecution, before a stunning breakthrough reignited a family's fight for justice over a decade later. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Jun 4"
+  },
+  {
+   "id": "tt43122943",
+   "type": "movie",
+   "name": "Instadocs: Alex Murdaugh, Unconvicted",
+   "poster": "https://images.justwatch.com/poster/346243693/s718/instadocs-alex-murdaugh-unconvicted.jpg",
+   "background": "https://image.tmdb.org/t/p/original/gxQ2lstfNVrzoawF3Z2S77YpTWR.jpg",
+   "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 May 30"
   },
   {
    "id": "tt38637477",
@@ -208,6 +280,15 @@
    "releaseInfo": "4K \u00b7 Mar 10"
   },
   {
+   "id": "tt39402858",
+   "type": "movie",
+   "name": "Contact in the Woods the Dr. Jonathan Reed Story",
+   "poster": "https://images.justwatch.com/poster/341269489/s718/contact-in-the-woods-the-dr-johnathan-reed-story.jpg",
+   "background": "https://images.metahub.space/background/large/tt39402858/img",
+   "description": "One man's hike ends in a bloody alien encounter. After killing a visitor to save his dog, Dr. Jonathan Reed captured terrifying evidence before being hunted by dark forces. The mystery that remains the world's most polarizing UFO case. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Mar 1"
+  },
+  {
    "id": "tt35237771",
    "type": "movie",
    "name": "Ghost Elephants",
@@ -233,6 +314,15 @@
    "background": "https://image.tmdb.org/t/p/original/7U5wmVOUFOBItNFwM51Qtq7WiLG.jpg",
    "description": "A behind-the-scenes documentary uncovering the real history of Birmingham\u2019s Peaky Blinders, separating fact from fiction in the hit TV series and exploring the creative vision behind its unique style. Available on Prime Video in 1080p.",
    "releaseInfo": "1080p \u00b7 Feb 9"
+  },
+  {
+   "id": "tt39389929",
+   "type": "movie",
+   "name": "The Investigation of Lucy Letby",
+   "poster": "https://images.justwatch.com/poster/341536937/s718/the-investigation-of-lucy-letby.jpg",
+   "background": "https://image.tmdb.org/t/p/original/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+   "description": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 4"
   },
   {
    "id": "tt39555309",

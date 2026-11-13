@@ -1,6 +1,15 @@
 {
  "metas": [
   {
+   "id": "tt36364892",
+   "type": "movie",
+   "name": "The Body in the Locker",
+   "poster": "https://images.justwatch.com/poster/338973441/s718/the-body-in-the-locker.jpg",
+   "background": "https://image.tmdb.org/t/p/original/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+   "description": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman? Available on Netflix, Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Nov 19"
+  },
+  {
    "id": "tt43619305",
    "type": "movie",
    "name": "A Toxic Love Story",
@@ -28,6 +37,24 @@
    "releaseInfo": "4K \u00b7 Jun 4"
   },
   {
+   "id": "tt43122943",
+   "type": "movie",
+   "name": "Instadocs: Alex Murdaugh, Unconvicted",
+   "poster": "https://images.justwatch.com/poster/346243693/s718/instadocs-alex-murdaugh-unconvicted.jpg",
+   "background": "https://image.tmdb.org/t/p/original/gxQ2lstfNVrzoawF3Z2S77YpTWR.jpg",
+   "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 May 30"
+  },
+  {
+   "id": "tt35224721",
+   "type": "movie",
+   "name": "Neglected",
+   "poster": "https://images.justwatch.com/poster/346247330/s718/neglected-2025.jpg",
+   "background": "https://image.tmdb.org/t/p/original/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
+   "description": "Detective Shaw discovers a serial killer has buried his son alive and must solve three murders to find him before he dies. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 May 8"
+  },
+  {
    "id": "tt39182249",
    "type": "movie",
    "name": "Kidnapped in Her Own Home: The Martha Carelli Story",
@@ -35,6 +62,69 @@
    "background": "https://image.tmdb.org/t/p/original/oyJ8zJJMAqtHTXZWxlPNhxfnDWN.jpg",
    "description": "Follows Martha Carelli whose life is shattered when an escaped convict takes her hostage and forces her to drive his getaway car. She must outwit her increasingly volatile captor to survive. Available on Netflix in 1080p.",
    "releaseInfo": "1080p \u00b7 May 2"
+  },
+  {
+   "id": "tt31689648",
+   "type": "movie",
+   "name": "Dirty Hands",
+   "poster": "https://images.justwatch.com/poster/344395992/s718/dirty-hands-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/9znueRe5J8Q6b11wO3gzpxAWzZz.jpg",
+   "description": "In the underbelly of Chicago, a routine drug deal goes bad for the Denton brothers, Richie and Danny. With a kingpin\u2019s son murdered, a rival gang out for blood, and their own boss trying to clean up their mess, the brothers must fight for their lives if they\u2019re going to survive until morning. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 24"
+  },
+  {
+   "id": "tt40891145",
+   "type": "movie",
+   "name": "180",
+   "poster": "https://images.justwatch.com/poster/343833861/s718/180-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+   "description": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 16"
+  },
+  {
+   "id": "tt12308018",
+   "type": "movie",
+   "name": "Newborn",
+   "poster": "https://images.justwatch.com/poster/342667108/s718/newborn-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/skyvaf7uhxMrQNIy3NZSN77SswS.jpg",
+   "description": "After serving seven years in solitary confinement, Chris Newborn seeks to rebuild his life and reconnect with his family only to find that freedom has become a terrifying psychological battleground. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 10"
+  },
+  {
+   "id": "tt36169378",
+   "type": "movie",
+   "name": "This Is Birmingham",
+   "poster": "https://images.justwatch.com/poster/347367198/s718/this-is-birmingham.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1EH6S7HH8SBIA14FzhlPuUdAP2g.jpg",
+   "description": "A visceral crime drama that fuses hard-hitting action with raw, emotional storytelling. Set in the savage depths of the UK's most brutal underworld, the film plunges viewers into a world of perilous, uncharted ground. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 6"
+  },
+  {
+   "id": "tt5095076",
+   "type": "movie",
+   "name": "Wardriver",
+   "poster": "https://images.justwatch.com/poster/343813038/s718/wardriver.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
+   "description": "He\u2019s a Wardriver: a hacker who steals from banks, not people\u2014until he\u2019s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both. Available on Paramount+ in 4K.",
+   "releaseInfo": "4K \u00b7 Mar 4"
+  },
+  {
+   "id": "tt27047903",
+   "type": "movie",
+   "name": "Scream 7",
+   "poster": "https://images.justwatch.com/poster/338171849/s718/scream-7.jpg",
+   "background": "https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+   "description": "Sidney fights to protect her daughter when Ghostface stalks their quiet Indiana town, forcing a survivor's family to confront old trauma, media spectacle, and a killer who weaponizes deep-fakes. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 25"
+  },
+  {
+   "id": "tt1764551",
+   "type": "movie",
+   "name": "Psycho Killer",
+   "poster": "https://images.justwatch.com/poster/341271372/s718/psycho-killer.jpg",
+   "background": "https://image.tmdb.org/t/p/original/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
+   "description": "A police officer tracks a killer after her husband, a highway patrolman, becomes one of his victims. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 20"
   },
   {
    "id": "tt32430579",
@@ -46,6 +136,15 @@
    "releaseInfo": "4K \u00b7 Feb 11"
   },
   {
+   "id": "tt6374142",
+   "type": "movie",
+   "name": "Misdirection",
+   "poster": "https://images.justwatch.com/poster/341663459/s718/misdirection.jpg",
+   "background": "https://image.tmdb.org/t/p/original/pgVvGaqM77sQR90OeMMVNvQAxbg.jpg",
+   "description": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 10"
+  },
+  {
    "id": "tt37886159",
    "type": "movie",
    "name": "Peaky Blinders: The Real Story",
@@ -53,6 +152,33 @@
    "background": "https://image.tmdb.org/t/p/original/7U5wmVOUFOBItNFwM51Qtq7WiLG.jpg",
    "description": "A behind-the-scenes documentary uncovering the real history of Birmingham\u2019s Peaky Blinders, separating fact from fiction in the hit TV series and exploring the creative vision behind its unique style. Available on Prime Video in 1080p.",
    "releaseInfo": "1080p \u00b7 Feb 9"
+  },
+  {
+   "id": "tt39389929",
+   "type": "movie",
+   "name": "The Investigation of Lucy Letby",
+   "poster": "https://images.justwatch.com/poster/341536937/s718/the-investigation-of-lucy-letby.jpg",
+   "background": "https://image.tmdb.org/t/p/original/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+   "description": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 4"
+  },
+  {
+   "id": "tt27497165",
+   "type": "movie",
+   "name": "In Cold Light",
+   "poster": "https://images.justwatch.com/poster/342073641/s718/in-cold-light.jpg",
+   "background": "https://image.tmdb.org/t/p/original/9aJUVBiHkEa7a5qx3uU6r8g33ZQ.jpg",
+   "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 23"
+  },
+  {
+   "id": "tt11609626",
+   "type": "movie",
+   "name": "The Calling Witch",
+   "poster": "https://images.justwatch.com/poster/341051294/s718/the-calling-witch.jpg",
+   "background": "https://image.tmdb.org/t/p/original/3ihuzorgMXhExPOlIiVirnLIS4s.jpg",
+   "description": "A brother and sister are terrorized by what seems to be their late-author mother's most sinister literary creation - The Calling Witch. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 20"
   }
  ]
 }

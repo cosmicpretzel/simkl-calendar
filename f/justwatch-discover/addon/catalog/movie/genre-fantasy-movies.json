@@ -1,3 +1,13 @@
 {
- "metas": []
+ "metas": [
+  {
+   "id": "tt11100168",
+   "type": "movie",
+   "name": "The Mummy: Bride of the Dead",
+   "poster": "https://images.justwatch.com/poster/344107309/s718/the-mummy-2026-1.jpg",
+   "background": "https://image.tmdb.org/t/p/original/lAOxpKM3Go7PfuckuA5VOEb5OXi.jpg",
+   "description": "An Egyptologist in possession of a haunted Bride of the Dead amulet is the target of a tech billionaire who believes the ancient Egyptian mummy artifact holds forbidden magic that could awaken a deadly mummy curse and unlock eternal life. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 3"
+  }
+ ]
 }

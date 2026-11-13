@@ -1,6 +1,24 @@
 {
  "metas": [
   {
+   "id": "tt36364892",
+   "type": "movie",
+   "name": "The Body in the Locker",
+   "poster": "https://images.justwatch.com/poster/338973441/s718/the-body-in-the-locker.jpg",
+   "background": "https://image.tmdb.org/t/p/original/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+   "description": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman? Available on Netflix, Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Nov 19"
+  },
+  {
+   "id": "tt38213251",
+   "type": "movie",
+   "name": "Heartland",
+   "poster": "https://images.justwatch.com/poster/355278075/s718/heartland-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+   "description": "A former country star, Misty Jones, comes out of seclusion to investigate the disappearance of her missing niece, a rising country musician and must grapple with her own past and Nashville\u2019s seedy underbelly. Her search uncovers a murky side of Nashville where no one, including Misty, is who they seem. Available on Netflix in 1080p.",
+   "releaseInfo": "1080p \u00b7 Nov 13"
+  },
+  {
    "id": "tt50426072",
    "type": "movie",
    "name": "A Story of Derry",
@@ -8,6 +26,15 @@
    "background": "https://images.metahub.space/background/large/tt50426072/img",
    "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit. Available on HBO Max in 4K.",
    "releaseInfo": "4K \u00b7 Oct 31"
+  },
+  {
+   "id": "tt42467740",
+   "type": "movie",
+   "name": "Where is Your Faith",
+   "poster": "https://images.justwatch.com/poster/346683357/s718/where-is-your-faith.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dsncwcnV74whiIBpr67zsH9IqAl.jpg",
+   "description": "On a quiet night, Sarah Mitchell, played by Karen Abercrombie, enters a dark church ready to end her life. Inside, Pastor David Reynolds, played by William L. Johnson faces his own loss of faith. Together, they confront hope. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Aug 19"
   },
   {
    "id": "tt43683795",
@@ -19,6 +46,51 @@
    "releaseInfo": "1080p \u00b7 Jul 24"
   },
   {
+   "id": "tt28500290",
+   "type": "movie",
+   "name": "Grizzly Night",
+   "poster": "https://images.justwatch.com/poster/315774982/s718/grizzly-night.jpg",
+   "background": "https://image.tmdb.org/t/p/original/i275mAQP4KhPtYUpMUgBGMmK4WN.jpg",
+   "description": "On August 12, 1967, in Montana's Glacier National Park, the unthinkable happened: that same night, nine miles apart, there were not one\u2014but two\u2014fatal grizzly bear attacks. Available on Paramount+ in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 16"
+  },
+  {
+   "id": "tt30217600",
+   "type": "movie",
+   "name": "The Bay",
+   "poster": "https://images.justwatch.com/poster/347467475/s718/the-bay-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+   "description": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 2"
+  },
+  {
+   "id": "tt19035928",
+   "type": "movie",
+   "name": "Lucky Strike",
+   "poster": "https://images.justwatch.com/poster/348126370/s718/lucky-strike-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+   "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 26"
+  },
+  {
+   "id": "tt42907611",
+   "type": "movie",
+   "name": "The Welcome Table",
+   "poster": "https://images.justwatch.com/poster/346623216/s718/the-welcome-table.jpg",
+   "background": "https://image.tmdb.org/t/p/original/ubuYtXNrjA8Nxq4XHfXhbXpuIkW.jpg",
+   "description": "Tells the story of climate refugees across six continents, celebrating the voices and experiences of people living at the forefront of the climate crisis, displaced from their homes by climate disasters. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 23"
+  },
+  {
+   "id": "tt41265940",
+   "type": "movie",
+   "name": "Heart of a Woman",
+   "poster": "https://images.justwatch.com/poster/354108932/s718/heart-of-a-woman-2026.jpg",
+   "background": "https://images.metahub.space/background/large/tt41265940/img",
+   "description": "Naomi, a devoted nurse, uncovers her husband's betrayal and transforms from an abused wife into a relentless force for revenge and justice. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 12"
+  },
+  {
    "id": "tt30343126",
    "type": "movie",
    "name": "Miss You, Love You",
@@ -26,6 +98,24 @@
    "background": "https://image.tmdb.org/t/p/original/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
    "description": "Forced to plan her late husband's funeral with her estranged gay son's assistant, a blunt, grieving widow forms an unlikely bond with the total stranger as confronting their shared grief surfaces deep family secrets and long-held resentments. Available on HBO Max in 4K.",
    "releaseInfo": "4K \u00b7 May 29"
+  },
+  {
+   "id": "tt34378301",
+   "type": "movie",
+   "name": "Jack Ryan: Ghost War",
+   "poster": "https://images.justwatch.com/poster/344441025/s718/tom-clancys-jack-ryan-ghost-war.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+   "description": "Follows Jack Ryan who reunites with CIA operatives to navigate a treacherous web of betrayal against an enemy who knows their every move, facing a past they thought was long put to rest. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 May 20"
+  },
+  {
+   "id": "tt40331624",
+   "type": "movie",
+   "name": "Drip Drop",
+   "poster": "https://images.justwatch.com/poster/346833311/s718/drip-drop.jpg",
+   "background": "https://images.metahub.space/background/large/tt40331624/img",
+   "description": "Things take a left turn when the wife of a wealthy self-made entrepreneur offers her best friend and her best friend's husband the opportunity of a life-time: a swinger's weekend for $200,000. Her friend accepts the offer, and chaos ensues soon thereafter, threatening the lives of all involved. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 17"
   },
   {
    "id": "tt34379307",
@@ -37,6 +127,15 @@
    "releaseInfo": "4K \u00b7 May 14"
   },
   {
+   "id": "tt14507394",
+   "type": "movie",
+   "name": "Hellfire",
+   "poster": "https://images.justwatch.com/poster/340724684/s718/hellfire-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+   "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 14"
+  },
+  {
    "id": "tt39182249",
    "type": "movie",
    "name": "Kidnapped in Her Own Home: The Martha Carelli Story",
@@ -44,6 +143,51 @@
    "background": "https://image.tmdb.org/t/p/original/oyJ8zJJMAqtHTXZWxlPNhxfnDWN.jpg",
    "description": "Follows Martha Carelli whose life is shattered when an escaped convict takes her hostage and forces her to drive his getaway car. She must outwit her increasingly volatile captor to survive. Available on Netflix in 1080p.",
    "releaseInfo": "1080p \u00b7 May 2"
+  },
+  {
+   "id": "tt32192973",
+   "type": "movie",
+   "name": "One Spoon of Chocolate",
+   "poster": "https://images.justwatch.com/poster/331507331/s718/one-spoon-of-chocolate.jpg",
+   "background": "https://image.tmdb.org/t/p/original/5CdoqLaj2VjMkfXMwUtUwziQJDX.jpg",
+   "description": "After serving his country in the Army, Unique is falsely accused of assault and sent to prison. Once released, Unique sets up shop in Ohio to restart his life, linking up with his only surviving relative, Ramsey. There\u2019s something insidious happening in this town, though, as its racist sheriff and his crew of similarly bigoted acolytes all have a knack for violence and share a gruesome secret pertaining to a recent string of missing young Black men. When they set their sights on Unique and turn his life upside down, the former soldier has no choice but to bring the ruckus down on the sheriff and his goons. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 1"
+  },
+  {
+   "id": "tt23150446",
+   "type": "movie",
+   "name": "This Bloody Country",
+   "poster": "https://images.justwatch.com/poster/340443780/s718/this-bloody-country.jpg",
+   "background": "https://image.tmdb.org/t/p/original/wifTZmWp9K0qY2aUfVfi7HBhlcc.jpg",
+   "description": "In 1869, a family leaves Salt Lake City on an arduous journey to establish a new outpost of their church. They cart all their belongings, leaving safety behind. The terrain is rough and unforgiving. When an encounter with dangerous men turns violent, their attempt to flee proves futile. Left with no other choice, they must prepare to defend themselves from an expected attack. Their pursuers hold the advantage because a party of mostly women and children are no match for outlaws in the wild country\u2026 unless they are. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 29"
+  },
+  {
+   "id": "tt40891145",
+   "type": "movie",
+   "name": "180",
+   "poster": "https://images.justwatch.com/poster/343833861/s718/180-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+   "description": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 16"
+  },
+  {
+   "id": "tt12308018",
+   "type": "movie",
+   "name": "Newborn",
+   "poster": "https://images.justwatch.com/poster/342667108/s718/newborn-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/skyvaf7uhxMrQNIy3NZSN77SswS.jpg",
+   "description": "After serving seven years in solitary confinement, Chris Newborn seeks to rebuild his life and reconnect with his family only to find that freedom has become a terrifying psychological battleground. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 10"
+  },
+  {
+   "id": "tt36169378",
+   "type": "movie",
+   "name": "This Is Birmingham",
+   "poster": "https://images.justwatch.com/poster/347367198/s718/this-is-birmingham.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1EH6S7HH8SBIA14FzhlPuUdAP2g.jpg",
+   "description": "A visceral crime drama that fuses hard-hitting action with raw, emotional storytelling. Set in the savage depths of the UK's most brutal underworld, the film plunges viewers into a world of perilous, uncharted ground. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Apr 6"
   },
   {
    "id": "tt21045208",
@@ -55,6 +199,24 @@
    "releaseInfo": "1080p \u00b7 Mar 20"
   },
   {
+   "id": "tt38598321",
+   "type": "movie",
+   "name": "The Seemingly Perfect Family",
+   "poster": "https://images.justwatch.com/poster/342937280/s718/the-seemingly-perfect-family.jpg",
+   "background": "https://image.tmdb.org/t/p/original/s05UJ399SR8tgYkgjqthAdOJCO6.jpg",
+   "description": "Inspired by true events. When 18-year-old Lexi ages out of the foster care system and lies to get an au pair job, the dream family she is working for turns out to be a nightmare as she uncovers their twisted secrets. Rylee Reagan stars. Available on Netflix in 1080p.",
+   "releaseInfo": "1080p \u00b7 Mar 15"
+  },
+  {
+   "id": "tt37547564",
+   "type": "movie",
+   "name": "Secret Sins",
+   "poster": "https://images.justwatch.com/poster/340395717/s718/secret-sins.jpg",
+   "background": "https://image.tmdb.org/t/p/original/aYYPHJgAsJJ7dDR0hWrQ3MGcZhO.jpg",
+   "description": "After the death of his father, a pastor's son takes the lead, but a power-hungry deacon plots his ruin in a tale of faith, ambition, and betrayal. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Mar 15"
+  },
+  {
    "id": "tt4899906",
    "type": "movie",
    "name": "Mister Gates",
@@ -64,6 +226,24 @@
    "releaseInfo": "1080p \u00b7 Mar 10"
   },
   {
+   "id": "tt31988779",
+   "type": "movie",
+   "name": "Sweetness",
+   "poster": "https://images.justwatch.com/poster/341019032/s718/sweetness.jpg",
+   "background": "https://image.tmdb.org/t/p/original/fkI2TdmYHiiYwV1q0Ly5MdrxglX.jpg",
+   "description": "When a chance encounter with her rockstar crush leads 16-year-old Rylee to discover that he's a dysfunctional drug addict, she takes it upon herself to help him, ultimately forcing her teenage fantasies into reality. Available on Paramount+ in 1080p.",
+   "releaseInfo": "1080p \u00b7 Mar 6"
+  },
+  {
+   "id": "tt1764551",
+   "type": "movie",
+   "name": "Psycho Killer",
+   "poster": "https://images.justwatch.com/poster/341271372/s718/psycho-killer.jpg",
+   "background": "https://image.tmdb.org/t/p/original/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
+   "description": "A police officer tracks a killer after her husband, a highway patrolman, becomes one of his victims. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 20"
+  },
+  {
    "id": "tt32430579",
    "type": "movie",
    "name": "Crime 101",
@@ -71,6 +251,24 @@
    "background": "https://image.tmdb.org/t/p/original/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
    "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher. Available on Prime Video in 4K.",
    "releaseInfo": "4K \u00b7 Feb 11"
+  },
+  {
+   "id": "tt32645982",
+   "type": "movie",
+   "name": "Surrender To It",
+   "poster": "https://images.justwatch.com/poster/346163506/s718/surrender-to-it.jpg",
+   "background": "https://image.tmdb.org/t/p/original/A29PwrgdmpseKRylBjpI51agSu7.jpg",
+   "description": "Chaos ensues when a grieving father reunites with his old actor friends on a mysterious weekend in the UK's wild west. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 9"
+  },
+  {
+   "id": "tt7798632",
+   "type": "movie",
+   "name": "Hamlet",
+   "poster": "https://images.justwatch.com/poster/344769164/s718/hamlet-2025.jpg",
+   "background": "https://image.tmdb.org/t/p/original/s8JEKHgD26NaMU20PluSJsZusqu.jpg",
+   "description": "Hamlet comes home for his father's funeral and finds his uncle Claudius marrying his widowed mother Gertrude. His father's ghost reveals Claudius murdered him, leading Hamlet toward revenge and introspection. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 6"
   },
   {
    "id": "tt32316819",
@@ -91,6 +289,24 @@
    "releaseInfo": "4K \u00b7 Jan 26"
   },
   {
+   "id": "tt31867154",
+   "type": "movie",
+   "name": "267",
+   "poster": "https://images.justwatch.com/poster/344778716/s718/267.jpg",
+   "background": "https://image.tmdb.org/t/p/original/uvfgB12GwhubtSCaNiA4VCMNfVT.jpg",
+   "description": "When a brother and sister are reunited after years of separation, they uncover a dark secret about one of the worlds largest pharmaceutical companies. Eager to expose the truth, they have no choice but to face their darkest fears together. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 25"
+  },
+  {
+   "id": "tt27497165",
+   "type": "movie",
+   "name": "In Cold Light",
+   "poster": "https://images.justwatch.com/poster/342073641/s718/in-cold-light.jpg",
+   "background": "https://image.tmdb.org/t/p/original/9aJUVBiHkEa7a5qx3uU6r8g33ZQ.jpg",
+   "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 23"
+  },
+  {
    "id": "tt36580119",
    "type": "movie",
    "name": "The President's Cake",
@@ -100,6 +316,15 @@
    "releaseInfo": "4K \u00b7 Jan 22"
   },
   {
+   "id": "tt22868010",
+   "type": "movie",
+   "name": "Return to Silent Hill",
+   "poster": "https://images.justwatch.com/poster/336106037/s718/return-to-silent-hill.jpg",
+   "background": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+   "description": "When a man receives a mysterious letter from his lost love, he is drawn to Silent Hill, a once familiar town now consumed by darkness. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 21"
+  },
+  {
    "id": "tt9525878",
    "type": "movie",
    "name": "Sheepdog",
@@ -107,6 +332,42 @@
    "background": "https://image.tmdb.org/t/p/original/d9BMvmi9GAOz7bQ1nTE3cm7B0V7.jpg",
    "description": "A decorated combat Veteran is court ordered into treatment when an ex-convict shows up on his doorstep and reveals that he must put himself back together again. Available on Prime Video in 1080p.",
    "releaseInfo": "1080p \u00b7 Jan 16"
+  },
+  {
+   "id": "tt27505337",
+   "type": "movie",
+   "name": "Salt of the Earth",
+   "poster": "https://images.justwatch.com/poster/330546980/s718/salt-of-the-earth-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/spNSjnlhz5vio0KQAZZCeywPAus.jpg",
+   "description": "In the aftermath of a global collapse, a police officer and his crime-boss sister navigate a dystopian world in search of his rabies-infected son. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 9"
+  },
+  {
+   "id": "tt34724163",
+   "type": "movie",
+   "name": "Annihilator Unleashed",
+   "poster": "https://images.justwatch.com/poster/343800891/s718/annihilator-unleashed.jpg",
+   "background": "https://image.tmdb.org/t/p/original/2mSG2hsJFUOYXRP0GqLJNXrAi3i.jpg",
+   "description": "A reclusive ex-cartel enforcer is drawn back into bloodshed when he saves a singer from murder, leading to a confrontation with a vengeful crime lord seeking revenge against him. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 6"
+  },
+  {
+   "id": "tt30807329",
+   "type": "movie",
+   "name": "Beneath the Light",
+   "poster": "https://images.justwatch.com/poster/338490996/s718/beneath-the-light-2025.jpg",
+   "background": "https://image.tmdb.org/t/p/original/w2ADdZiVK9DK4IWgnZOP2hHkMrI.jpg",
+   "description": "A man with a haunted past takes a job repairing an abandoned lighthouse that's only reachable by boat. His feelings of isolation and uneasiness grow as he starts to see the strange apparition of a young girl that he somehow recognizes. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 1"
+  },
+  {
+   "id": "tt39216666",
+   "type": "movie",
+   "name": "RedShore",
+   "poster": "https://images.justwatch.com/poster/346884964/s718/redshore.jpg",
+   "background": "https://images.metahub.space/background/large/tt39216666/img",
+   "description": "After a devastating loss, Miles tries to rebuild his life in RedShore, Maine. With help from close friends and connection with a girl from his past while his father is trying to share a deep secret, reminding us all the fragility of life. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p"
   }
  ]
 }

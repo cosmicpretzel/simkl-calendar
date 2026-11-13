@@ -1,6 +1,42 @@
 {
  "metas": [
   {
+   "id": "tt33763941",
+   "type": "movie",
+   "name": "Passenger",
+   "poster": "https://images.justwatch.com/poster/344361135/s718/passenger-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+   "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger won't stop until it claims them both. Available on Paramount+ in 4K.",
+   "releaseInfo": "4K \u00b7 May 20"
+  },
+  {
+   "id": "tt19035928",
+   "type": "movie",
+   "name": "Lucky Strike",
+   "poster": "https://images.justwatch.com/poster/348126370/s718/lucky-strike-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+   "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 26"
+  },
+  {
+   "id": "tt32654916",
+   "type": "movie",
+   "name": "Soulm8te",
+   "poster": "https://images.justwatch.com/poster/356439001/s718/soulm8te.jpg",
+   "background": "https://image.tmdb.org/t/p/original/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+   "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 31"
+  },
+  {
+   "id": "tt34494076",
+   "type": "movie",
+   "name": "Hungry",
+   "poster": "https://images.justwatch.com/poster/346626662/s718/hungry-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
+   "description": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 3"
+  },
+  {
    "id": "tt41593493",
    "type": "movie",
    "name": "Avedon",
@@ -17,6 +53,42 @@
    "background": "https://image.tmdb.org/t/p/original/bZDG7ypci7shzYp7jCOW4d1UC8w.jpg",
    "description": "K2's first winter ascent claimed 5 lives, revealing modern alpinism's struggles with commercialization, social media impact, and conflicts between marginalized climbers and traditional elites. Available on Apple TV in 4K.",
    "releaseInfo": "4K \u00b7 Oct 2"
+  },
+  {
+   "id": "tt46060457",
+   "type": "movie",
+   "name": "The Swan: Behind the Mirror",
+   "poster": "https://images.justwatch.com/poster/355029989/s718/the-swan-behind-the-mirror.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cxAOlicoljfeXzuNKKpElM4Bovc.jpg",
+   "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Sep 29"
+  },
+  {
+   "id": "tt43619305",
+   "type": "movie",
+   "name": "A Toxic Love Story",
+   "poster": "https://images.justwatch.com/poster/346813344/s718/a-toxic-love-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+   "description": "A string of threatening e-mails escalates into a revenge plot involving a newly-married US Marshal and his ex-girlfriend. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 22"
+  },
+  {
+   "id": "tt34378301",
+   "type": "movie",
+   "name": "Jack Ryan: Ghost War",
+   "poster": "https://images.justwatch.com/poster/344441025/s718/tom-clancys-jack-ryan-ghost-war.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+   "description": "Follows Jack Ryan who reunites with CIA operatives to navigate a treacherous web of betrayal against an enemy who knows their every move, facing a past they thought was long put to rest. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 May 20"
+  },
+  {
+   "id": "tt32889884",
+   "type": "movie",
+   "name": "Freefall: A Reckoning for Boeing",
+   "poster": "https://images.justwatch.com/poster/347620845/s718/freefall-a-reckoning-for-boeing.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+   "description": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis.. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 14"
   },
   {
    "id": "tt46027225",
@@ -37,6 +109,87 @@
    "releaseInfo": "4K \u00b7 Sep 9"
   },
   {
+   "id": "tt1776340",
+   "type": "movie",
+   "name": "The Whistler",
+   "poster": "https://images.justwatch.com/poster/343695080/s718/the-whistler-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
+   "description": "Reeling from their daughter's loss, Nicole and Sebastian come into possession of a secluded Venezuelan farm, unaware of the dark forces they're about to face. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Sep 24"
+  },
+  {
+   "id": "tt30217600",
+   "type": "movie",
+   "name": "The Bay",
+   "poster": "https://images.justwatch.com/poster/347467475/s718/the-bay-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+   "description": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 2"
+  },
+  {
+   "id": "tt46659729",
+   "type": "movie",
+   "name": "Clown Panic",
+   "poster": "https://images.justwatch.com/poster/355567916/s718/clown-panic.jpg",
+   "background": "https://image.tmdb.org/t/p/original/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+   "description": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Oct 12"
+  },
+  {
+   "id": "tt42192165",
+   "type": "movie",
+   "name": "The Murder of Rachel Nickell",
+   "poster": "https://images.justwatch.com/poster/345460130/s718/the-murder-of-rachel-nickell.jpg",
+   "background": "https://image.tmdb.org/t/p/original/yKeYZOmBMQUMKpMlJJF8q4riYpl.jpg",
+   "description": "In 1992, a young mother is killed in broad daylight on London\u2019s Wimbledon Common, leaving her two-year-old toddler as the sole witness. Exploring the shocking real events behind the drama series The Witness, this gripping documentary from BAFTA-nominated director Lucy Bowden examines the notorious, years-long police investigation that followed. Featuring exclusive archive footage, first-hand accounts from family members, and insights from leading forensic experts, the film unpacks how a flawed, highly-publicised inquiry led to the wrong man's prosecution, before a stunning breakthrough reignited a family's fight for justice over a decade later. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 4"
+  },
+  {
+   "id": "tt36364892",
+   "type": "movie",
+   "name": "The Body in the Locker",
+   "poster": "https://images.justwatch.com/poster/338973441/s718/the-body-in-the-locker.jpg",
+   "background": "https://image.tmdb.org/t/p/original/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+   "description": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman? Available on Netflix, Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Nov 19"
+  },
+  {
+   "id": "tt42941113",
+   "type": "movie",
+   "name": "Land of Wolves",
+   "poster": "https://images.justwatch.com/poster/346310152/s718/land-of-wolves-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/FGjyKdJbrrqABr8x4ZwQLGrmbs.jpg",
+   "description": "When a covert rescue mission goes wrong, four former Navy SEALs are captured and thrown into an underground death match. Watched by depraved billionaires, they are forced to fight in a brutal tournament. With no weapons and no way out, the team must rely on their training and unbreakable bond to survive the bloody arena, dismantle the entire operation and reclaim their freedom. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 19"
+  },
+  {
+   "id": "tt26689505",
+   "type": "movie",
+   "name": "Time of Death",
+   "poster": "https://images.justwatch.com/poster/348028242/s718/time-of-death-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/z1RpdUplP1HrHRB5iX8kdVwN8WK.jpg",
+   "description": "When a prisoner vanishes without a trace, Detective Frank Morley (Michael Kelly) is sent to a decaying prison on the verge of shutdown. What begins as a routine investigation quickly spirals into a dangerous search for answers. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 12"
+  },
+  {
+   "id": "tt43660866",
+   "type": "movie",
+   "name": "My Grandfather Charles Manson",
+   "poster": "https://images.justwatch.com/poster/347179771/s718/my-grandfather-charles-manson.jpg",
+   "background": "https://image.tmdb.org/t/p/original/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg",
+   "description": "Sophia was always the good girl growing up and her father's rock, but her quest to identify her unknown grandfather results in a shocking discovery: He is Charles Manson, history's most notorious criminal; and he bears striking physical similarities to her beloved father. Sophia's discovery propels her into an underworld of Manson family members and unreliable narrators as she traces her grandfather's life. Along the way, her genetics unlock never-before-released records and audio recordings that illuminate Manson's pathology in startling ways. But the more Sophia uncovers, the more her relationship with her father is strained. For Sophia, there's no turning back. What has she inherited, and how will she reckon with her family legacy? Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 22"
+  },
+  {
+   "id": "tt42907611",
+   "type": "movie",
+   "name": "The Welcome Table",
+   "poster": "https://images.justwatch.com/poster/346623216/s718/the-welcome-table.jpg",
+   "background": "https://image.tmdb.org/t/p/original/ubuYtXNrjA8Nxq4XHfXhbXpuIkW.jpg",
+   "description": "Tells the story of climate refugees across six continents, celebrating the voices and experiences of people living at the forefront of the climate crisis, displaced from their homes by climate disasters. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 23"
+  },
+  {
    "id": "tt43675910",
    "type": "movie",
    "name": "Tribeca 25",
@@ -44,6 +197,51 @@
    "background": "https://image.tmdb.org/t/p/original/Ao3j6UGri7f82XKsyNqRZXaA8Ep.jpg",
    "description": "Twenty-five years after 9/11, Tribeca 25 chronicles how Robert De Niro and Jane Rosenthal transformed an ambitious effort to revive Lower Manhattan into one of the world's leading cultural institutions. Through rare archival footage, exclusive interviews and behind-the-scenes access, the film explores how art can foster community, confront injustice, and help shape culture. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Sep 11"
+  },
+  {
+   "id": "tt43657327",
+   "type": "movie",
+   "name": "Big Chicken: A Fast Food Conspiracy",
+   "poster": "https://images.justwatch.com/poster/347627546/s718/big-chicken-a-fast-food-conspiracy.jpg",
+   "background": "https://image.tmdb.org/t/p/original/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+   "description": "In a bold 28-day experiment, comedian Mo Gilligan tours the UK and US on a fried chicken diet to uncover the impact of the craving \u2014 and industry behind it. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 5"
+  },
+  {
+   "id": "tt50245863",
+   "type": "movie",
+   "name": "Instadocs: Jane Doe v. Cornell",
+   "poster": "https://images.justwatch.com/poster/356384079/s718/instadocs-jane-doe-v-cornell.jpg",
+   "background": "https://image.tmdb.org/t/p/original/n2TuBRfBo7HzhRMFEsnDqRTQ5Dy.jpg",
+   "description": "Instadocs goes inside the rape investigation and Jane Doe lawsuit at Cornell University, with the student journalists at the forefront of the story. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Oct 29"
+  },
+  {
+   "id": "tt28500290",
+   "type": "movie",
+   "name": "Grizzly Night",
+   "poster": "https://images.justwatch.com/poster/315774982/s718/grizzly-night.jpg",
+   "background": "https://image.tmdb.org/t/p/original/i275mAQP4KhPtYUpMUgBGMmK4WN.jpg",
+   "description": "On August 12, 1967, in Montana's Glacier National Park, the unthinkable happened: that same night, nine miles apart, there were not one\u2014but two\u2014fatal grizzly bear attacks. Available on Paramount+ in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 16"
+  },
+  {
+   "id": "tt43122943",
+   "type": "movie",
+   "name": "Instadocs: Alex Murdaugh, Unconvicted",
+   "poster": "https://images.justwatch.com/poster/346243693/s718/instadocs-alex-murdaugh-unconvicted.jpg",
+   "background": "https://image.tmdb.org/t/p/original/gxQ2lstfNVrzoawF3Z2S77YpTWR.jpg",
+   "description": "Why was Alex Murdaugh's conviction overturned? The debut of \"Instadocs\" digs into stunning allegations of jury interference in his double murder trial. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 May 30"
+  },
+  {
+   "id": "tt43708434",
+   "type": "movie",
+   "name": "Instadocs: The Prediction Games",
+   "poster": "https://images.justwatch.com/poster/354283722/s718/instadocs-the-prediction-games.jpg",
+   "background": "https://image.tmdb.org/t/p/original/hFKxAbTf5j3RJWFTuqCchn1vzsl.jpg",
+   "description": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 26"
   },
   {
    "id": "tt44535692",
@@ -55,6 +253,42 @@
    "releaseInfo": "4K \u00b7 Aug 26"
   },
   {
+   "id": "tt43683795",
+   "type": "movie",
+   "name": "Euphoria: A Look Back",
+   "poster": "https://images.justwatch.com/poster/347348732/s718/euphoria-a-look-back.jpg",
+   "background": "https://image.tmdb.org/t/p/original/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
+   "description": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences. Available on HBO Max in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 24"
+  },
+  {
+   "id": "tt43592228",
+   "type": "movie",
+   "name": "Spark Into a Flame",
+   "poster": "https://images.justwatch.com/poster/354689111/s718/a-spark-into-a-flame-hamilton-and-hip-hop.jpg",
+   "background": "https://images.metahub.space/background/large/tt43592228/img",
+   "description": "Lin-Manuel Miranda and others set hip-hop and Broadway on fire in The Hamilton Mixtape. Available on Disney+ in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 15"
+  },
+  {
+   "id": "tt43658408",
+   "type": "movie",
+   "name": "Heartstopper: Ending on a Hi",
+   "poster": "https://images.justwatch.com/poster/355678715/s718/heartstopper-ending-on-a-hi.jpg",
+   "background": "https://image.tmdb.org/t/p/original/tRMliSJgpzpunm8B1Jlhf6nuNZI.jpg",
+   "description": "After the ending of the hit Netflix series \u201cHeartstopper\u201d, this special combines never-before-seen behind-the-scenes footage, cast and crew interviews, larger cultural commentary, and fan input. Available on Netflix in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 24"
+  },
+  {
+   "id": "tt38380143",
+   "type": "movie",
+   "name": "The Pastor Who Preys",
+   "poster": "https://images.justwatch.com/poster/341172007/s718/the-pastor-who-preys.jpg",
+   "background": "https://image.tmdb.org/t/p/original/kFmnD6deQs8ONAwooh7A11RMJGr.jpg",
+   "description": "Budding New York fashion designer, Nicole, relocates to a small lake-side town for the summer to work on her first collection and spend time with her cousin, Amanda. Once in town, Nicole also meets the charismatic pastor from Amanda's church, Caleb, and his friendly wife, Jenn. However, when Amanda turns up dead in mysterious accident, Nicole begins to suspect that something is off with the handsome pastor and wonders if he could be connected to her cousin's death. Available on Disney+, Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Oct 8"
+  },
+  {
    "id": "tt48437216",
    "type": "movie",
    "name": "Instadocs: AI Gone Wild",
@@ -64,13 +298,22 @@
    "releaseInfo": "4K \u00b7 Oct 12"
   },
   {
-   "id": "tt46060457",
+   "id": "tt44942157",
    "type": "movie",
-   "name": "The Swan: Behind the Mirror",
-   "poster": "https://images.justwatch.com/poster/355029989/s718/the-swan-behind-the-mirror.jpg",
-   "background": "https://image.tmdb.org/t/p/original/cxAOlicoljfeXzuNKKpElM4Bovc.jpg",
-   "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that. Available on Hulu in 1080p.",
-   "releaseInfo": "1080p \u00b7 Sep 29"
+   "name": "Instadocs: The Decoy Plane",
+   "poster": "https://images.justwatch.com/poster/351090898/s718/instadocs-the-decoy-plane.jpg",
+   "background": "https://image.tmdb.org/t/p/original/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg",
+   "description": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Sep 4"
+  },
+  {
+   "id": "tt43636830",
+   "type": "movie",
+   "name": "Unbreakable Me - The Gabrielle Daleman Story",
+   "poster": "https://images.justwatch.com/poster/347476417/s718/unbreakable-me-the-gabrielle-daleman-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/xN3b0ZtXpbHK7wMOkgEhoLNkJVB.jpg",
+   "description": "This inspiring documentary follows Gabrielle Daleman, two-time Canadian champion and 2018 Olympic gold medalist, as she battles injuries, illness, bullying, and mental health struggles. Beyond the medals and spotlight, she faces adversity with courage and grit, rising again and again to prove that her greatest strength isn't just on the ice - it's in her unbreakable spirit. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 27"
   }
  ]
 }
