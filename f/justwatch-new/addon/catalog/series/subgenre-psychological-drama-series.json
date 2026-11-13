@@ -1,0 +1,40 @@
+{
+ "metas": [
+  {
+   "id": "tt32767294",
+   "type": "series",
+   "name": "Half Man",
+   "poster": "https://images.justwatch.com/poster/343661065/s718/half-man.jpg",
+   "background": "https://image.tmdb.org/t/p/original/voRcBEjydt5dJNgXuqtobIsZIbJ.jpg",
+   "description": "Ruben turns up at his estranged brother Niall's wedding, acting as a catalyst for a revival of the last 40 years of their relationship. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 23"
+  },
+  {
+   "id": "tt10970762",
+   "type": "series",
+   "name": "The Testaments",
+   "poster": "https://images.justwatch.com/poster/342788348/s718/the-testaments.jpg",
+   "background": "https://image.tmdb.org/t/p/original/uCndE341njionskk1pK9SbHqwZh.jpg",
+   "description": "This sequel to \"The Handmaid's Tale\" follows Agnes and Daisy, two teens in Gilead who must navigate an elite preparatory school where obedience is brutally enforced. Their bond becomes the catalyst that will transform their lives. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 8"
+  },
+  {
+   "id": "tt14786934",
+   "type": "series",
+   "name": "Scarpetta",
+   "poster": "https://images.justwatch.com/poster/339047049/s718/scarpetta.jpg",
+   "background": "https://image.tmdb.org/t/p/original/oHnlulBoE3XbI3HIYWY0dZfh5RH.jpg",
+   "description": "A brilliant forensic pathologist uses forensic technology to solve crimes. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Mar 11"
+  },
+  {
+   "id": "tt35707374",
+   "type": "series",
+   "name": "Memory of a Killer",
+   "poster": "https://images.justwatch.com/poster/340616591/s718/memory-of-a-killer.jpg",
+   "background": "https://image.tmdb.org/t/p/original/llrSuUkFiR6EjDnh79dq8HEeziF.jpg",
+   "description": "When hitman Angelo is hit with early onset Alzheimer's, his worlds collide, putting his family in danger. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jan 24"
+  }
+ ]
+}
