@@ -1,7 +1,7 @@
 {
  "id": "com.tyson.justwatch-discover",
- "version": "1.0.6",
- "name": "JustWatch Discover",
+ "version": "1.1.0",
+ "name": "Personalized",
  "description": "Browse new titles by genre and subgenre, filtered to your taste.",
  "resources": [
   "catalog"
@@ -75,6 +75,11 @@
    "name": "Drama"
   },
   {
+   "type": "movie",
+   "id": "genre-fantasy-movies",
+   "name": "Fantasy"
+  },
+  {
    "type": "series",
    "id": "genre-fantasy-series",
    "name": "Fantasy"
@@ -128,6 +133,26 @@
    "type": "series",
    "id": "genre-western-series",
    "name": "Western"
+  },
+  {
+   "type": "movie",
+   "id": "subgenre-scifi-horror-movies",
+   "name": "SciFi Horror"
+  },
+  {
+   "type": "movie",
+   "id": "subgenre-war-epics-movies",
+   "name": "War Epics"
+  },
+  {
+   "type": "movie",
+   "id": "subgenre-post-apocalyptic-world-movies",
+   "name": "Post Apocalyptic World"
+  },
+  {
+   "type": "movie",
+   "id": "subgenre-disaster-movies",
+   "name": "Disaster"
   }
  ]
 }
