@@ -1,7 +1,7 @@
 {
  "id": "com.tyson.justwatch-new",
- "version": "1.4.2",
- "name": "JustWatch New",
+ "version": "1.5.0",
+ "name": "Personalized",
  "description": "New on your streaming services, filtered to your taste.",
  "resources": [
   "catalog"
