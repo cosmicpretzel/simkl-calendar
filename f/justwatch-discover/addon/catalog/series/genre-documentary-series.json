@@ -280,15 +280,6 @@
    "releaseInfo": "1080p \u00b7 Mar 4"
   },
   {
-   "id": "tt40217962",
-   "type": "series",
-   "name": "Inside the CIA: Secrets & Spies",
-   "poster": "https://images.justwatch.com/poster/343168687/s718/inside-the-cia-secrets-and-spies.jpg",
-   "background": "https://image.tmdb.org/t/p/original/o26Girxv6Zb5r7jN43hdKunLMxZ.jpg",
-   "description": "Unbelievable, untold missions from inside the world of espionage-told by the spies themselves. From real-life Jason Bournes to Bin Laden's take-down, each episode delivers cliffhanger-driven stories revealing the deadly work of the CIA. Available on Hulu in 1080p.",
-   "releaseInfo": "1080p \u00b7 Feb 26"
-  },
-  {
    "id": "tt40960311",
    "type": "series",
    "name": "Lost Women of Alaska",
@@ -322,7 +313,7 @@
    "poster": "https://images.justwatch.com/poster/343077975/s718/fatal-fraud.jpg",
    "background": "https://image.tmdb.org/t/p/original/5XfhlEVziPjnMMAFNPPgmWUjVb.jpg",
    "description": "Delving into cases where financial schemes spiral into betrayal, violence and murder, exposing the deadly cost of lies fueled by greed. Available on Prime Video in 1080p.",
-   "releaseInfo": "1080p \u00b7 Feb 16"
+   "releaseInfo": "1080p \u00b7 Feb 15"
   },
   {
    "id": "tt39676538",
@@ -331,6 +322,15 @@
    "poster": "https://images.justwatch.com/poster/341668185/s718/the-scream-murder-a-true-teen-horror-story.jpg",
    "background": "https://image.tmdb.org/t/p/original/vne1uNiDV92uggQ0Wc8XUoILe6N.jpg",
    "description": "When high school student Cassie Stoddart was found stabbed to death in a house on the outskirts of Pocatello, Idaho, the community was gripped by fear that a random killer was on the loose. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 11"
+  },
+  {
+   "id": "tt40217962",
+   "type": "series",
+   "name": "Inside the CIA: Secrets & Spies",
+   "poster": "https://images.justwatch.com/poster/343168687/s718/inside-the-cia-secrets-and-spies.jpg",
+   "background": "https://image.tmdb.org/t/p/original/o26Girxv6Zb5r7jN43hdKunLMxZ.jpg",
+   "description": "Unbelievable, untold missions from inside the world of espionage-told by the spies themselves. From real-life Jason Bournes to Bin Laden's take-down, each episode delivers cliffhanger-driven stories revealing the deadly work of the CIA. Available on Hulu in 1080p.",
    "releaseInfo": "1080p \u00b7 Feb 11"
   },
   {

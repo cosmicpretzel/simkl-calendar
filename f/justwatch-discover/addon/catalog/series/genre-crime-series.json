@@ -118,21 +118,21 @@
    "releaseInfo": "1080p \u00b7 Jul 1"
   },
   {
-   "id": "tt34675596",
-   "type": "series",
-   "name": "Cape Fear",
-   "poster": "https://images.justwatch.com/poster/348078677/s718/cape-fear.jpg",
-   "background": "https://image.tmdb.org/t/p/original/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-   "description": "A happily married couple faces a growing threat when a notorious killer from their past, Max Cady, is released from prison and seeks revenge. Available on Apple TV in 4K.",
-   "releaseInfo": "4K \u00b7 Jun 5"
-  },
-  {
    "id": "tt31631015",
    "type": "series",
    "name": "The Witness",
    "poster": "https://images.justwatch.com/poster/344731789/s718/the-witness.jpg",
    "background": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
    "description": "With their 2-year-old as the sole witness to her murder, Rachel Nickell's partner fights to protect him amid a flawed investigation. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 4"
+  },
+  {
+   "id": "tt34675596",
+   "type": "series",
+   "name": "Cape Fear",
+   "poster": "https://images.justwatch.com/poster/348078677/s718/cape-fear.jpg",
+   "background": "https://image.tmdb.org/t/p/original/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+   "description": "A happily married couple faces a growing threat when a notorious killer from their past, Max Cady, is released from prison and seeks revenge. Available on Apple TV in 4K.",
    "releaseInfo": "4K \u00b7 Jun 4"
   },
   {
@@ -277,7 +277,7 @@
    "poster": "https://images.justwatch.com/poster/343077975/s718/fatal-fraud.jpg",
    "background": "https://image.tmdb.org/t/p/original/5XfhlEVziPjnMMAFNPPgmWUjVb.jpg",
    "description": "Delving into cases where financial schemes spiral into betrayal, violence and murder, exposing the deadly cost of lies fueled by greed. Available on Prime Video in 1080p.",
-   "releaseInfo": "1080p \u00b7 Feb 16"
+   "releaseInfo": "1080p \u00b7 Feb 15"
   },
   {
    "id": "tt39676538",
@@ -295,7 +295,7 @@
    "poster": "https://images.justwatch.com/poster/340616591/s718/memory-of-a-killer.jpg",
    "background": "https://image.tmdb.org/t/p/original/llrSuUkFiR6EjDnh79dq8HEeziF.jpg",
    "description": "When hitman Angelo is hit with early onset Alzheimer's, his worlds collide, putting his family in danger. Available on Hulu in 1080p.",
-   "releaseInfo": "1080p \u00b7 Jan 24"
+   "releaseInfo": "1080p \u00b7 Jan 25"
   },
   {
    "id": "tt32499731",
