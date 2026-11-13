@@ -1,6 +1,6 @@
 {
  "id": "com.tyson.justwatch-discover",
- "version": "1.0.3",
+ "version": "1.0.4",
  "name": "JustWatch Discover",
  "description": "Browse new titles by genre and subgenre, filtered to your taste.",
  "resources": [
@@ -14,6 +14,26 @@
   "tt"
  ],
  "catalogs": [
+  {
+   "type": "movie",
+   "id": "trending-movies",
+   "name": "Trending Movies"
+  },
+  {
+   "type": "series",
+   "id": "trending-series",
+   "name": "Trending Series"
+  },
+  {
+   "type": "movie",
+   "id": "recommended-movies",
+   "name": "Recommended Movies"
+  },
+  {
+   "type": "series",
+   "id": "recommended-series",
+   "name": "Recommended Series"
+  },
   {
    "type": "movie",
    "id": "genre-action-movies",
