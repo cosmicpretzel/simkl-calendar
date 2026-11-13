@@ -1,6 +1,15 @@
 {
  "metas": [
   {
+   "id": "tt43681696",
+   "type": "series",
+   "name": "Taken: Natalee Holloway",
+   "poster": "https://images.justwatch.com/poster/355784537/s718/taken-natalee-holloway.jpg",
+   "background": "https://image.tmdb.org/t/p/original/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+   "description": "Explores the 2005 disappearance of 18-year-old Natalee Holloway during a graduation trip to Aruba and her mother Beth's two-decade search for answers and justice. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Nov 4"
+  },
+  {
    "id": "tt50623990",
    "type": "series",
    "name": "True Tales of the Mob",
@@ -44,6 +53,15 @@
    "background": "https://image.tmdb.org/t/p/original/kFp5nRy5b6xghGKObHsqvcyGlR8.jpg",
    "description": "Investigative journalist Joe Sexton looks into a 2002 double homicide case in Kansas after receiving thousands of emails from Eileen Umbehr, a homemaker turned citizen sleuth. Eileen and her husband Keen are convinced that Dana Chandler, the woman accused of killing her ex-husband and his girlfriend, did not commit the crime and devote their lives to fighting for Chandler's innocence. Available on HBO Max in 4K.",
    "releaseInfo": "4K \u00b7 Sep 10"
+  },
+  {
+   "id": "tt43659651",
+   "type": "series",
+   "name": "World's Most Evil Women",
+   "poster": "https://images.justwatch.com/poster/348310487/s718/worlds-most-evil-women.jpg",
+   "background": "https://images.metahub.space/background/large/tt43659651/img",
+   "description": "World's Most Evil Women unmasks those who traded compassion for cruelty, committing acts so horrific they shattered entire communities. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Aug 17"
   },
   {
    "id": "tt43725623",
@@ -161,6 +179,15 @@
    "background": "https://image.tmdb.org/t/p/original/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
    "description": "Customs agents go undercover to infiltrate Britain's most dangerous drug gangs, following a thrilling criminal investigation based on extensive research and interviews with those involved in the top-secret operation. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 May 7"
+  },
+  {
+   "id": "tt27331527",
+   "type": "series",
+   "name": "Man on Fire",
+   "poster": "https://images.justwatch.com/poster/345456819/s718/man-on-fire.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+   "description": "Follows John Creasy, a wounded former mercenary on a quest to get revenge for the loss of his only companion while defending the daughter of his dead colleague from the forces that tore her family apart. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 30"
   },
   {
    "id": "tt38626699",
@@ -341,6 +368,15 @@
    "background": "https://image.tmdb.org/t/p/original/cWpmxJNlQWOVF2wPH4TjzIozRZ.jpg",
    "description": "Known for his twisting narratives and intricate plots, Harlan Coben guides audiences through gripping tales of murder and high-profile crimes. Each story is meticulously unraveled to reveal hidden truths. With exclusive interviews and never-before-seen archival materials, each episode provides an in-depth look at stories where nothing is as it seems. Available on Paramount+ in 1080p.",
    "releaseInfo": "1080p \u00b7 Jan 7"
+  },
+  {
+   "id": "tt9169516",
+   "type": "series",
+   "name": "Run Away",
+   "poster": "https://images.justwatch.com/poster/340682854/s718/run-away.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+   "description": "A desperate father searching for his runaway daughter gets caught up in a murder case \u2014 and stumbles upon secrets which could destroy his family for good. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 1"
   }
  ]
 }
