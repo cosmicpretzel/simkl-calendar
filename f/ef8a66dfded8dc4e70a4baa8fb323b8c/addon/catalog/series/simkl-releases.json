@@ -1,15 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt11704040",
-   "type": "series",
-   "name": "Love is Blind",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt11704040.jpg?v=77dc5a6b",
-   "background": "https://image.tmdb.org/t/p/original/5sZyCtojLzqYAsz0qH9QMllu55I.jpg",
-   "description": "Now In 1080p \u00b7 Next episode: S11E13 \u00b7 The Reunion \u00b7 Sun Nov 08, 12:00 AM PT",
-   "releaseInfo": "Now In 1080p"
-  },
-  {
    "id": "tt33764258",
    "type": "movie",
    "name": "The Odyssey",
@@ -31,10 +22,10 @@
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=40ac9edb",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=03f4d411",
    "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-   "description": "Now In 1080p \u00b7 Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Thu Nov 12, 07:00 PM PT",
-   "releaseInfo": "Now In 1080p"
+   "description": "Now In 4K \u00b7 Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Thu Nov 12, 07:00 PM PT",
+   "releaseInfo": "Now In 4K"
   },
   {
    "id": "tt10946316",
