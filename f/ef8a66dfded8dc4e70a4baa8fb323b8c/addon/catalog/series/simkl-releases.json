@@ -1,15 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt39850240",
-   "type": "movie",
-   "name": "Angel and the Badman",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt39850240.jpg?v=86df4d5a",
-   "background": "https://image.tmdb.org/t/p/original/hULWeQoEJUhiZ6NlANxsLoMJJ5p.jpg",
-   "description": "Now In 1080p \u00b7 Releases November 10, 2026",
-   "releaseInfo": "Now In 1080p"
-  },
-  {
    "id": "tt11704040",
    "type": "series",
    "name": "Love is Blind",
