@@ -1,0 +1,113 @@
+{
+ "catalogs": [
+  {
+   "id": "genre-action-movies",
+   "name": "Action",
+   "type": "movie"
+  },
+  {
+   "id": "genre-action-series",
+   "name": "Action",
+   "type": "series"
+  },
+  {
+   "id": "genre-crime-movies",
+   "name": "Crime",
+   "type": "movie"
+  },
+  {
+   "id": "genre-crime-series",
+   "name": "Crime",
+   "type": "series"
+  },
+  {
+   "id": "genre-documentary-movies",
+   "name": "Documentary",
+   "type": "movie"
+  },
+  {
+   "id": "genre-documentary-series",
+   "name": "Documentary",
+   "type": "series"
+  },
+  {
+   "id": "genre-drama-movies",
+   "name": "Drama",
+   "type": "movie"
+  },
+  {
+   "id": "genre-drama-series",
+   "name": "Drama",
+   "type": "series"
+  },
+  {
+   "id": "genre-fantasy-series",
+   "name": "Fantasy",
+   "type": "series"
+  },
+  {
+   "id": "genre-horror-movies",
+   "name": "Horror",
+   "type": "movie"
+  },
+  {
+   "id": "genre-horror-series",
+   "name": "Horror",
+   "type": "series"
+  },
+  {
+   "id": "genre-thriller-movies",
+   "name": "Mystery & Thriller",
+   "type": "movie"
+  },
+  {
+   "id": "genre-thriller-series",
+   "name": "Mystery & Thriller",
+   "type": "series"
+  },
+  {
+   "id": "genre-scifi-movies",
+   "name": "Science-Fiction",
+   "type": "movie"
+  },
+  {
+   "id": "genre-scifi-series",
+   "name": "Science-Fiction",
+   "type": "series"
+  },
+  {
+   "id": "genre-war-movies",
+   "name": "War & Military",
+   "type": "movie"
+  },
+  {
+   "id": "genre-war-series",
+   "name": "War & Military",
+   "type": "series"
+  },
+  {
+   "id": "genre-western-movies",
+   "name": "Western",
+   "type": "movie"
+  },
+  {
+   "id": "genre-western-series",
+   "name": "Western",
+   "type": "series"
+  }
+ ],
+ "description": "Browse new titles by genre and subgenre, filtered to your taste.",
+ "id": "com.tyson.justwatch-discover",
+ "idPrefixes": [
+  "tt"
+ ],
+ "name": "JustWatch Discover",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "version": "1.0.2"
+}
