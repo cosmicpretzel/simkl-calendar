@@ -1,0 +1,49 @@
+{
+ "metas": [
+  {
+   "id": "tt43619305",
+   "type": "movie",
+   "name": "A Toxic Love Story",
+   "poster": "https://images.justwatch.com/poster/346813344/s718/a-toxic-love-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+   "description": "A string of threatening e-mails escalates into a revenge plot involving a newly-married US Marshal and his ex-girlfriend. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 22"
+  },
+  {
+   "id": "tt32022863",
+   "type": "movie",
+   "name": "Jinx",
+   "poster": "https://images.justwatch.com/poster/353492375/s718/jinx-2026.jpg",
+   "background": "https://images.metahub.space/background/large/tt32022863/img",
+   "description": "Three years ago she stole a secret worth killing for. And now that she's back, this thief for hire has his own reasons for revenge. But just how far can he trust her? Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 1"
+  },
+  {
+   "id": "tt39182249",
+   "type": "movie",
+   "name": "Kidnapped in Her Own Home: The Martha Carelli Story",
+   "poster": "https://images.justwatch.com/poster/346882048/s718/kidnapped-in-her-own-home-the-martha-carelli-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/oyJ8zJJMAqtHTXZWxlPNhxfnDWN.jpg",
+   "description": "Follows Martha Carelli whose life is shattered when an escaped convict takes her hostage and forces her to drive his getaway car. She must outwit her increasingly volatile captor to survive. Available on Netflix in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 2"
+  },
+  {
+   "id": "tt32430579",
+   "type": "movie",
+   "name": "Crime 101",
+   "poster": "https://images.justwatch.com/poster/337757732/s718/crime-101.jpg",
+   "background": "https://image.tmdb.org/t/p/original/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+   "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 11"
+  },
+  {
+   "id": "tt37886159",
+   "type": "movie",
+   "name": "Peaky Blinders: The Real Story",
+   "poster": "https://images.justwatch.com/poster/341894266/s718/peaky-blinders-the-real-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/7U5wmVOUFOBItNFwM51Qtq7WiLG.jpg",
+   "description": "A behind-the-scenes documentary uncovering the real history of Birmingham\u2019s Peaky Blinders, separating fact from fiction in the hit TV series and exploring the creative vision behind its unique style. Available on Prime Video in 1080p.",
+   "releaseInfo": "1080p \u00b7 Feb 9"
+  }
+ ]
+}
