@@ -1,0 +1,58 @@
+{
+ "id": "com.tyson.justwatch-new",
+ "version": "1.0.0",
+ "name": "JustWatch New",
+ "description": "New on your streaming services, filtered to your taste.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "series",
+   "id": "new-netflix",
+   "name": "New on Netflix"
+  },
+  {
+   "type": "series",
+   "id": "new-hbomax",
+   "name": "New on HBO Max"
+  },
+  {
+   "type": "series",
+   "id": "new-disney",
+   "name": "New on Disney+"
+  },
+  {
+   "type": "series",
+   "id": "new-prime",
+   "name": "New on Prime Video"
+  },
+  {
+   "type": "series",
+   "id": "new-appletv",
+   "name": "New on Apple TV"
+  },
+  {
+   "type": "series",
+   "id": "new-paramount",
+   "name": "New on Paramount+"
+  },
+  {
+   "type": "series",
+   "id": "new-hulu",
+   "name": "New on Hulu"
+  },
+  {
+   "type": "series",
+   "id": "new-this-week",
+   "name": "New This Week"
+  }
+ ]
+}
