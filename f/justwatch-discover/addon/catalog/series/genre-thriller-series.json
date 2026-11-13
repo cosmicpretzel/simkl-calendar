@@ -82,6 +82,15 @@
    "releaseInfo": "4K \u00b7 May 7"
   },
   {
+   "id": "tt27331527",
+   "type": "series",
+   "name": "Man on Fire",
+   "poster": "https://images.justwatch.com/poster/345456819/s718/man-on-fire.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+   "description": "Follows John Creasy, a wounded former mercenary on a quest to get revenge for the loss of his only companion while defending the daughter of his dead colleague from the forces that tore her family apart. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Apr 30"
+  },
+  {
    "id": "tt31631142",
    "type": "series",
    "name": "Unchosen",
@@ -136,6 +145,15 @@
    "releaseInfo": "1080p \u00b7 Feb 23"
   },
   {
+   "id": "tt27557666",
+   "type": "series",
+   "name": "Lord of the Flies",
+   "poster": "https://images.justwatch.com/poster/341458630/s718/lord-of-the-flies.jpg",
+   "background": "https://image.tmdb.org/t/p/original/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+   "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 8"
+  },
+  {
    "id": "tt35707374",
    "type": "series",
    "name": "Memory of a Killer",
@@ -179,6 +197,15 @@
    "background": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
    "description": "Two estranged spouses \u2014 one a detective, the other a news reporter \u2014 vie to solve a murder in which each believes the other is a prime suspect. Available on Netflix in 4K.",
    "releaseInfo": "4K \u00b7 Jan 8"
+  },
+  {
+   "id": "tt9169516",
+   "type": "series",
+   "name": "Run Away",
+   "poster": "https://images.justwatch.com/poster/340682854/s718/run-away.jpg",
+   "background": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+   "description": "A desperate father searching for his runaway daughter gets caught up in a murder case \u2014 and stumbles upon secrets which could destroy his family for good. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Jan 1"
   }
  ]
 }
