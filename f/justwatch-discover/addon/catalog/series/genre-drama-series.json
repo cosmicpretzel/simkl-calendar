@@ -1,6 +1,15 @@
 {
  "metas": [
   {
+   "id": "tt32375763",
+   "type": "series",
+   "name": "12 12 12",
+   "poster": "https://images.justwatch.com/poster/349873010/s718/12-12-12.jpg",
+   "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+   "description": "Three intertwined timelines follow the planning and execution of a daring heist in Zurich and its aftermath as an FBI agent pursues a master criminal across Europe. Available on Apple TV in 4K.",
+   "releaseInfo": "4K \u00b7 Nov 12"
+  },
+  {
    "id": "tt8014982",
    "type": "series",
    "name": "The Body",
@@ -206,6 +215,15 @@
    "background": "https://image.tmdb.org/t/p/original/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
    "description": "Follows a partnership between a C.I.A Case Officer and an F.B.I. Special Agent who work together on a clandestine task force to prevent domestic terrorism in New York. Available on Paramount+ in 1080p.",
    "releaseInfo": "1080p \u00b7 Feb 23"
+  },
+  {
+   "id": "tt27557666",
+   "type": "series",
+   "name": "Lord of the Flies",
+   "poster": "https://images.justwatch.com/poster/341458630/s718/lord-of-the-flies.jpg",
+   "background": "https://image.tmdb.org/t/p/original/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+   "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Feb 8"
   },
   {
    "id": "tt35707374",

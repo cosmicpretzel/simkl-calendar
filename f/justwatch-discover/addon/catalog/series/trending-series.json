@@ -1,6 +1,15 @@
 {
  "metas": [
   {
+   "id": "tt36303968",
+   "type": "series",
+   "name": "Furious",
+   "poster": "https://images.justwatch.com/poster/348297009/s718/furious.jpg",
+   "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+   "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 27"
+  },
+  {
    "id": "tt43681696",
    "type": "series",
    "name": "Taken: Natalee Holloway",
@@ -19,6 +28,42 @@
    "releaseInfo": "1080p \u00b7 Oct 22"
   },
   {
+   "id": "tt34675596",
+   "type": "series",
+   "name": "Cape Fear",
+   "poster": "https://images.justwatch.com/poster/348078677/s718/cape-fear.jpg",
+   "background": "https://image.tmdb.org/t/p/original/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+   "description": "A happily married couple faces a growing threat when a notorious killer from their past, Max Cady, is released from prison and seeks revenge. Available on Apple TV in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 4"
+  },
+  {
+   "id": "tt46683025",
+   "type": "series",
+   "name": "The Pet Cemetery Murders: A Ghost Story",
+   "poster": "https://images.justwatch.com/poster/355553887/s718/the-pet-cemetery-murders-a-ghost-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+   "description": "The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma. Available on HBO Max in 1080p.",
+   "releaseInfo": "1080p \u00b7 Oct 11"
+  },
+  {
+   "id": "tt27543562",
+   "type": "series",
+   "name": "The Shards",
+   "poster": "https://images.justwatch.com/poster/347382936/s718/the-shards.jpg",
+   "background": "https://image.tmdb.org/t/p/original/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+   "description": "The Shards is part teenage coming of age, erotic thriller and exploration of the untamed and mysterious era of Los Angeles 1981, tracking a group of privileged high school friends as a serial killer strikes across the city. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 5"
+  },
+  {
+   "id": "tt32140872",
+   "type": "series",
+   "name": "Star City",
+   "poster": "https://images.justwatch.com/poster/344791567/s718/star-city.jpg",
+   "background": "https://image.tmdb.org/t/p/original/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+   "description": "Soviet cosmonauts, engineers, and intelligence officers risk everything in an ambitious space program aiming to be the first to reach the moon. Available on Apple TV in 4K.",
+   "releaseInfo": "4K \u00b7 May 28"
+  },
+  {
    "id": "tt9280400",
    "type": "series",
    "name": "A Killer Story",
@@ -28,6 +73,24 @@
    "releaseInfo": "4K \u00b7 Sep 10"
   },
   {
+   "id": "tt39163341",
+   "type": "series",
+   "name": "Murder 101",
+   "poster": "https://images.justwatch.com/poster/346536733/s718/murder-101.jpg",
+   "background": "https://image.tmdb.org/t/p/original/j3Unn0ynJIWrsmWMcPA4mBIk3Qf.jpg",
+   "description": "Part teen drama, part masterclass, and part edge-of-your-seat crime investigation, follow a high school sociology class in rural Tennessee who help revive a decades-old case into a present-day hunt for a killer. Available on Prime Video in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 13"
+  },
+  {
+   "id": "tt29033873",
+   "type": "series",
+   "name": "The Man Will Burn",
+   "poster": "https://images.justwatch.com/poster/346667779/s718/the-man-will-burn.jpg",
+   "background": "https://image.tmdb.org/t/p/original/r7DeEHAvfW8q30fetw6HgB60aip.jpg",
+   "description": "Traces the evolution of Burning Man, from its anarchic countercultural roots in San Francisco to the 80,000-person desert gathering it has become. Available on HBO Max in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 9"
+  },
+  {
    "id": "tt46066662",
    "type": "series",
    "name": "The Serial Killer Connection",
@@ -35,6 +98,78 @@
    "background": "https://image.tmdb.org/t/p/original/6GYk6Fw9Biyfk39D70Y4oz2LgHL.jpg",
    "description": "The ex-wife and survivor of serial killer Richard \"Marc\" Evonitz unite to uncover his untold life and crimes and as they dig deeper, they confront the chilling possibility that the full scope of his crimes has yet to be revealed. Available on HBO Max in 1080p.",
    "releaseInfo": "1080p \u00b7 Oct 7"
+  },
+  {
+   "id": "tt39399104",
+   "type": "series",
+   "name": "The Real Wolf of Wall Street",
+   "poster": "https://images.justwatch.com/poster/356917808/s718/the-real-wolf-of-wall-street.jpg",
+   "background": "https://image.tmdb.org/t/p/original/oQdkBoIjjHAtBF2YU1u4FlNcUnK.jpg",
+   "description": "A three-part docuseries, revealing the true story of Jordan Belfort and his boiler room brokers at Stratton Oakmont, which is even darker and more debauched than previously known. Available on Paramount+ in 4K.",
+   "releaseInfo": "4K \u00b7 Jul 14"
+  },
+  {
+   "id": "tt42670541",
+   "type": "series",
+   "name": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
+   "poster": "https://images.justwatch.com/poster/345653291/s718/the-nightmare-upstairs-what-happened-to-ty-and-bryn.jpg",
+   "background": "https://image.tmdb.org/t/p/original/7RbMokpQPPIXQbZuBlHxjYLWoL8.jpg",
+   "description": "When allegations of abuse irrevocably fracture a Utah family, a bitter custody battle ensues. After the court orders the children into a controversial reunification program, Ty and Bryn take matters into their own hands by barricading themselves in a bedroom for 54 days, livestreaming their protest, and turning an intimate family crisis into a national viral reckoning. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 19"
+  },
+  {
+   "id": "tt43746863",
+   "type": "series",
+   "name": "OJ Unseen: Exploitation of Evil",
+   "poster": "https://images.justwatch.com/poster/354760915/s718/oj-unseen-exploitation-of-evil.jpg",
+   "background": "https://image.tmdb.org/t/p/original/bn2PXePvd3OSymbbueSoWTiFcK3.jpg",
+   "description": "Never-before-seen footage from O.J. Simpson's prank show reveals how a volatile comeback attempt unraveled. Mounting tension, uneasy encounters, and behind the scenes truths test the ethical boundaries of America's media machine. Available on HBO Max in 1080p.",
+   "releaseInfo": "1080p \u00b7 Sep 7"
+  },
+  {
+   "id": "tt43739197",
+   "type": "series",
+   "name": "Somebody Knows Something",
+   "poster": "https://images.justwatch.com/poster/356415161/s718/somebody-knows-something.jpg",
+   "background": "https://image.tmdb.org/t/p/original/dUSdxz3Mpl21pgiAkx2kKnSz9QW.jpg",
+   "description": "Former law enforcement officer Kara Chamberlain investigates unsolved murders and missing persons cases, working with victims' families, police and online communities to generate new leads. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Aug 10"
+  },
+  {
+   "id": "tt43706317",
+   "type": "series",
+   "name": "Unmasking a Monster: Aileen Wuornos",
+   "poster": "https://images.justwatch.com/poster/356434625/s718/unmasking-a-monster-aileen-wuornos-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/jizs2LLqX8zkVT34I1VCmtrEPAK.jpg",
+   "description": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002. Available on HBO Max in 1080p.",
+   "releaseInfo": "1080p \u00b7 Sep 30"
+  },
+  {
+   "id": "tt43706252",
+   "type": "series",
+   "name": "The Promise: Finding My Mother's Killer",
+   "poster": "https://images.justwatch.com/poster/347561962/s718/the-promise-finding-my-mothers-killer.jpg",
+   "background": "https://images.metahub.space/background/large/tt43706252/img",
+   "description": "Effie Entezari was shot outside her apartment complex. Her husband was convicted and spent 25 years in prison. Convinced of her father's innocence, the daughter spent millions and decades investigating the case to uncover the real killer. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jul 1"
+  },
+  {
+   "id": "tt41978418",
+   "type": "series",
+   "name": "The Many Lives of Benjaman Kyle",
+   "poster": "https://images.justwatch.com/poster/345860389/s718/the-many-lives-of-benjaman-kyle.jpg",
+   "background": "https://image.tmdb.org/t/p/original/qrpL5eSoubDrDGo12NK3SvDuJpI.jpg",
+   "description": "Follows two producers who try to help an amnesiac man found behind a Burger King to discover his identity, but uncover lies, three unsolved cold cases, and a connection to a crime family, placing themselves in danger. Available on HBO Max, Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 May 25"
+  },
+  {
+   "id": "tt43349460",
+   "type": "series",
+   "name": "Squatters: Get the F*** Out of My House",
+   "poster": "https://images.justwatch.com/poster/346560869/s718/squatters-get-the-f-out-of-my-house.jpg",
+   "background": "https://image.tmdb.org/t/p/original/gZV3R6jYdt6hHTZmtxTEs1SFIqz.jpg",
+   "description": "Experienced squatters are exploiting legal loopholes to live rent-free. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 4"
   },
   {
    "id": "tt45124639",
@@ -64,6 +199,51 @@
    "releaseInfo": "1080p \u00b7 Aug 17"
   },
   {
+   "id": "tt42841691",
+   "type": "series",
+   "name": "Devotion: Obedience or Betrayal",
+   "poster": "https://images.justwatch.com/poster/345869357/s718/devotion-obedience-or-betrayal.jpg",
+   "background": "https://image.tmdb.org/t/p/original/saJlIE31LUjuFZhLhBI60hw5BvJ.jpg",
+   "description": "For over 50 years, daily life in Gloriavale has been governed by rigid beliefs and hierarchies as men rule over their wives. Shocking allegations of sexual abuse and a cover-up threaten their way of life. Available on Paramount+ in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 2"
+  },
+  {
+   "id": "tt43725623",
+   "type": "series",
+   "name": "Conversations with a Killer: The Charles Manson Tapes",
+   "poster": "https://images.justwatch.com/poster/347753784/s718/conversations-with-a-killer-the-charles-manson-tapes.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg",
+   "description": "Follows cult leader Charles Manson's rise, the 1969 murders committed by the Manson Family, and the 1971 trial through unreleased prison recordings, firsthand accounts, and interviews. Available on Netflix in 4K.",
+   "releaseInfo": "4K \u00b7 Aug 12"
+  },
+  {
+   "id": "tt42835175",
+   "type": "series",
+   "name": "Bring Me the Beauties: A Model Cult",
+   "poster": "https://images.justwatch.com/poster/345767048/s718/bring-me-the-beauties-a-model-cult.jpg",
+   "background": "https://image.tmdb.org/t/p/original/wtiipa5mucHotfxO0cr1b7roqt4.jpg",
+   "description": "Learn how Hoyt Richards was drawn into the spiritual group Eternal Values by its enigmatic leader Frederick von Mierers. Available on HBO Max in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 1"
+  },
+  {
+   "id": "tt42907659",
+   "type": "series",
+   "name": "Big Girls Wanted: Escaping Pearadise",
+   "poster": "https://images.justwatch.com/poster/346460549/s718/big-girls-wanted-escaping-pearadise.jpg",
+   "background": "https://image.tmdb.org/t/p/original/a4I08bxeepepOewrhZ4lAZSdoAl.jpg",
+   "description": "Explores the rise of the Pearadise community and the complex, and at times conflicting, accounts from women connected to it. Available on HBO Max, Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 10"
+  },
+  {
+   "id": "tt39151104",
+   "type": "series",
+   "name": "Best of the World with Antoni Porowski",
+   "poster": "https://images.justwatch.com/poster/347345148/s718/best-of-the-world-with-antoni-porowski.jpg",
+   "background": "https://image.tmdb.org/t/p/original/qskzSwDM0e5d8ZAK0MvTNwh2fg7.jpg",
+   "description": "Follows Antoni Porowski as he travels through Paris, Mexico City, London and New York City to find places to eat, stay and enjoy while learning at inventive restaurants and exploring local culture. Available on Hulu in 4K.",
+   "releaseInfo": "4K \u00b7 Jun 7"
+  },
+  {
    "id": "tt50369345",
    "type": "series",
    "name": "Cars That Changed History",
@@ -71,6 +251,15 @@
    "background": "https://images.metahub.space/background/large/tt50369345/img",
    "description": "Cars That Changed History is a 2026 documentary docuseries airing on National Geographic.\n\nFormat: 1-season docuseries consisting of 6 episodes exploring engineering breakthroughs, historic rivalries, and the social impact of iconic vehicles. Available on Hulu in 1080p.",
    "releaseInfo": "1080p \u00b7 Oct 29"
+  },
+  {
+   "id": "tt43502359",
+   "type": "series",
+   "name": "Celebrity Crime Scene",
+   "poster": "https://images.justwatch.com/poster/346645358/s718/celebrity-crime-scene-marilyn-monroe.jpg",
+   "background": "https://images.metahub.space/background/large/tt43502359/img",
+   "description": "A revolutionary virtual recreation rebuilds Marilyn Monroe's death scene with unprecedented precision, allowing crime scene investigators to step back into 1962 and reexamine the evidence. Available on Hulu in 1080p.",
+   "releaseInfo": "1080p \u00b7 Jun 21"
   }
  ]
 }
