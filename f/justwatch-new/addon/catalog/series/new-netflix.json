@@ -1,0 +1,220 @@
+{
+ "metas": [
+  {
+   "id": "tt41593493",
+   "type": "movie",
+   "name": "Avedon",
+   "poster": "https://images.justwatch.com/poster/355260209/s718/avedon.jpg",
+   "background": "https://image.tmdb.org/t/p/original/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+   "description": "Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon's archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.",
+   "releaseInfo": "Nov 6"
+  },
+  {
+   "id": "tt34966036",
+   "type": "movie",
+   "name": "Free Leonard Peltier",
+   "poster": "https://images.justwatch.com/poster/330272719/s718/free-leonard-peltier.jpg",
+   "background": "https://image.tmdb.org/t/p/original/qMBGmMch1TlYdtXXFuDFTesGP2L.jpg",
+   "description": "Leonard Peltier, an activist jailed for decades after a disputed conviction, faces his twilight years as a new generation fights for his release from prison before it's too late.",
+   "releaseInfo": "Oct 12"
+  },
+  {
+   "id": "tt44568097",
+   "type": "movie",
+   "name": "The Widower: 'Til Death Do Us Part",
+   "poster": "https://images.justwatch.com/poster/354760860/s718/the-widower-til-death-do-us-part.jpg",
+   "background": "https://image.tmdb.org/t/p/original/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+   "description": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
+   "releaseInfo": "Sep 30"
+  },
+  {
+   "id": "tt43675910",
+   "type": "movie",
+   "name": "Tribeca 25",
+   "poster": "https://images.justwatch.com/poster/348673776/s718/tribeca-25.jpg",
+   "background": "https://image.tmdb.org/t/p/original/Ao3j6UGri7f82XKsyNqRZXaA8Ep.jpg",
+   "description": "Twenty-five years after 9/11, Tribeca 25 chronicles how Robert De Niro and Jane Rosenthal transformed an ambitious effort to revive Lower Manhattan into one of the world's leading cultural institutions. Through rare archival footage, exclusive interviews and behind-the-scenes access, the film explores how art can foster community, confront injustice, and help shape culture.",
+   "releaseInfo": "Sep 11"
+  },
+  {
+   "id": "tt44535692",
+   "type": "movie",
+   "name": "The Last Salute",
+   "poster": "https://images.justwatch.com/poster/350182117/s718/the-last-salute.jpg",
+   "background": "https://image.tmdb.org/t/p/original/nBi3xDc9psoSVt5aN87fEKDHrgh.jpg",
+   "description": "Chronicles the MiG-21's final chapter in the Indian Air Force, showcasing stories of generations of fighter pilots who flew it.",
+   "releaseInfo": "Aug 26"
+  },
+  {
+   "id": "tt44113382",
+   "type": "series",
+   "name": "Death of the Pastor's Wife",
+   "poster": "https://images.justwatch.com/poster/348327093/s718/death-of-the-pastors-wife.jpg",
+   "background": "https://image.tmdb.org/t/p/original/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
+   "description": "What happened to Mica Miller? This documentary series retraces her promising life, toxic marriage and the mysterious circumstances of her death.",
+   "releaseInfo": "Aug 26"
+  },
+  {
+   "id": "tt43725623",
+   "type": "series",
+   "name": "Conversations with a Killer: The Charles Manson Tapes",
+   "poster": "https://images.justwatch.com/poster/347753784/s718/conversations-with-a-killer-the-charles-manson-tapes.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg",
+   "description": "Follows cult leader Charles Manson's rise, the 1969 murders committed by the Manson Family, and the 1971 trial through unreleased prison recordings, firsthand accounts, and interviews.",
+   "releaseInfo": "Aug 12"
+  },
+  {
+   "id": "tt43708434",
+   "type": "movie",
+   "name": "Instadocs: The Prediction Games",
+   "poster": "https://images.justwatch.com/poster/354283722/s718/instadocs-the-prediction-games.jpg",
+   "background": "https://image.tmdb.org/t/p/original/hFKxAbTf5j3RJWFTuqCchn1vzsl.jpg",
+   "description": "Prediction markets let anyone bet on anything, from the World Cup to alien invasions. \"Instadocs\" investigates the explosive rise of global betting.",
+   "releaseInfo": "Jul 26"
+  },
+  {
+   "id": "tt43619305",
+   "type": "movie",
+   "name": "A Toxic Love Story",
+   "poster": "https://images.justwatch.com/poster/346813344/s718/a-toxic-love-story.jpg",
+   "background": "https://image.tmdb.org/t/p/original/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+   "description": "A string of threatening e-mails escalates into a revenge plot involving a newly-married US Marshal and his ex-girlfriend.",
+   "releaseInfo": "Jul 22"
+  },
+  {
+   "id": "tt43595399",
+   "type": "movie",
+   "name": "Shipwrecked: Nightmare at Sea",
+   "poster": "https://images.justwatch.com/poster/347212755/s718/shipwrecked-nightmare-at-sea.jpg",
+   "background": "https://image.tmdb.org/t/p/original/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+   "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+   "releaseInfo": "Jul 10"
+  },
+  {
+   "id": "tt40792117",
+   "type": "movie",
+   "name": "The Crash",
+   "poster": "https://images.justwatch.com/poster/344752069/s718/the-crash-1.jpg",
+   "background": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+   "description": "A teen slams her car into a building, killing her boyfriend and his friend. What seems like a tragic accident becomes a murder case.",
+   "releaseInfo": "May 14"
+  },
+  {
+   "id": "tt36022742",
+   "type": "series",
+   "name": "Nemesis",
+   "poster": "https://images.justwatch.com/poster/343681331/s718/nemesis-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+   "description": "LA crime drama pits master thief Coltrane Wilder against detective Isaiah Stiles, challenging heist genre norms while examining what drives, sustains and destroys people.",
+   "releaseInfo": "May 14"
+  },
+  {
+   "id": "tt33265765",
+   "type": "series",
+   "name": "Legends",
+   "poster": "https://images.justwatch.com/poster/344298975/s718/legends-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
+   "description": "Customs agents go undercover to infiltrate Britain's most dangerous drug gangs, following a thrilling criminal investigation based on extensive research and interviews with those involved in the top-secret operation.",
+   "releaseInfo": "May 7"
+  },
+  {
+   "id": "tt16431404",
+   "type": "movie",
+   "name": "Apex",
+   "poster": "https://images.justwatch.com/poster/343727604/s718/apex-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+   "description": "A mountain climber haunted by a fatal decision in Norway retreats to the Australian wilderness for isolation. Her journey turns into a desperate hunt when a deceptive local targets her as his next ritualistic prey in the bush.",
+   "releaseInfo": "Apr 24"
+  },
+  {
+   "id": "tt31631142",
+   "type": "series",
+   "name": "Unchosen",
+   "poster": "https://images.justwatch.com/poster/343797072/s718/unchosen.jpg",
+   "background": "https://image.tmdb.org/t/p/original/vmQOnDaNuzRznzRAUg8GcwIsXV1.jpg",
+   "description": "When a young mother from a sheltered cult crosses paths with a mysterious stranger, she embarks on a risky affair that awakens desires and dark secrets.",
+   "releaseInfo": "Apr 21"
+  },
+  {
+   "id": "tt40706406",
+   "type": "movie",
+   "name": "The Hollywood Rabbi",
+   "poster": "https://images.justwatch.com/poster/355345073/s718/the-hollywood-rabbi.jpg",
+   "background": "https://image.tmdb.org/t/p/original/kysIxAyWGBgf4ecidqnh6WkUj41.jpg",
+   "description": "How does the child of immigrants, raised on the Lower East Side of Manhattan, become Frank Sinatra\u2019s personal rabbi, win two Academy Awards, mingle with four kings, three popes, eight presidents and a who\u2019s who of Hollywood royalty while dedicating his life to healing the world through tolerance?",
+   "releaseInfo": "Apr 14"
+  },
+  {
+   "id": "tt32572716",
+   "type": "movie",
+   "name": "The Truth and Tragedy of Moriah Wilson",
+   "poster": "https://images.justwatch.com/poster/344116576/s718/the-truth-and-tragedy-of-moriah-wilson.jpg",
+   "background": "https://image.tmdb.org/t/p/original/xQFxoGYtwMBAq89DPa9gUcLlOdA.jpg",
+   "description": "An intimate, arresting portrait of cyclist Moriah Wilson\u2014raised by a fierce, loving family\u2014whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
+   "releaseInfo": "Mar 19"
+  },
+  {
+   "id": "tt39345599",
+   "type": "movie",
+   "name": "The Plastic Detox",
+   "poster": "https://images.justwatch.com/poster/343809490/s718/the-plastic-detox.jpg",
+   "background": "https://image.tmdb.org/t/p/original/q3VkiqQi7syrVANAK8PjgIry0Vx.jpg",
+   "description": "Six couples with unexplained infertility reduce their plastic exposure to improve their chances of conceiving.",
+   "releaseInfo": "Mar 16"
+  },
+  {
+   "id": "tt39792948",
+   "type": "movie",
+   "name": "Louis Theroux: Inside the Manosphere",
+   "poster": "https://images.justwatch.com/poster/342803125/s718/louis-theroux-inside-the-manosphere.jpg",
+   "background": "https://image.tmdb.org/t/p/original/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
+   "description": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
+   "releaseInfo": "Mar 10"
+  },
+  {
+   "id": "tt15940132",
+   "type": "movie",
+   "name": "War Machine",
+   "poster": "https://images.justwatch.com/poster/341591989/s718/war-machine-2026.jpg",
+   "background": "https://image.tmdb.org/t/p/original/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+   "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+   "releaseInfo": "Feb 12"
+  },
+  {
+   "id": "tt31974288",
+   "type": "series",
+   "name": "Agatha Christie's Seven Dials",
+   "poster": "https://images.justwatch.com/poster/339274561/s718/agatha-christies-seven-dials.jpg",
+   "background": "https://image.tmdb.org/t/p/original/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+   "description": "England, 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths\u2014the fizzingly inquisitive Lady Eileen 'Bundle' Brent\u2014to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+   "releaseInfo": "Jan 15"
+  },
+  {
+   "id": "tt32642706",
+   "type": "movie",
+   "name": "The Rip",
+   "poster": "https://images.justwatch.com/poster/340927094/s718/rip-0.jpg",
+   "background": "https://image.tmdb.org/t/p/original/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+   "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question.",
+   "releaseInfo": "Jan 13"
+  },
+  {
+   "id": "tt39307872",
+   "type": "movie",
+   "name": "One Last Adventure: The Making of Stranger Things 5",
+   "poster": "https://images.justwatch.com/poster/340662431/s718/one-last-adventure-the-making-of-stranger-things-5.jpg",
+   "background": "https://image.tmdb.org/t/p/original/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+   "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
+   "releaseInfo": "Jan 11"
+  },
+  {
+   "id": "tt33035373",
+   "type": "series",
+   "name": "HIS & HERS",
+   "poster": "https://images.justwatch.com/poster/339094482/s718/his-and-hers.jpg",
+   "background": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+   "description": "Two estranged spouses \u2014 one a detective, the other a news reporter \u2014 vie to solve a murder in which each believes the other is a prime suspect.",
+   "releaseInfo": "Jan 8"
+  }
+ ]
+}
