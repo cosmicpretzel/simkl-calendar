@@ -19,22 +19,13 @@
    "releaseInfo": "Streams Soon"
   },
   {
-   "id": "tt31510819",
-   "type": "series",
-   "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=03f4d411",
-   "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-   "description": "Now In 4K \u00b7 Next episode: S02E09 \u00b7 Nervous Breakdown \u00b7 Thu Nov 12, 07:00 PM PT",
-   "releaseInfo": "Now In 4K"
-  },
-  {
    "id": "tt10946316",
    "type": "series",
    "name": "The Institute",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt10946316.jpg?v=f324958a",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt10946316.jpg?v=097cddbb",
    "background": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
    "description": "Next episode: S02E02 \u00b7 The Sanctuary \u00b7 Sat Nov 14, 09:00 PM PT",
-   "releaseInfo": "In 9 Hours"
+   "releaseInfo": "In 4 Hours"
   },
   {
    "id": "tt5622316",
@@ -62,6 +53,15 @@
    "background": "https://image.tmdb.org/t/p/original/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
    "description": "Releases November 18, 2026",
    "releaseInfo": "In 4 Days"
+  },
+  {
+   "id": "tt31510819",
+   "type": "series",
+   "name": "MobLand",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=6a54e6e0",
+   "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+   "description": "Next episode: S02E10 \u00b7 The Queen is Dead \u00b7 Thu Nov 19, 07:00 PM PT",
+   "releaseInfo": "In 5 Days"
   },
   {
    "id": "tt32213169",
