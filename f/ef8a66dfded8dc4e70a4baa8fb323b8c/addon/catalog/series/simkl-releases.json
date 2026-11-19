@@ -1,15 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt26598805",
-   "type": "series",
-   "name": "Nocturne",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt26598805.jpg?v=e171f6ca",
-   "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-   "description": "Next episode: S01E04 \u00b7 The Courier \u00b7 Thu Nov 12, 09:00 PM PT",
-   "releaseInfo": "Streams Soon"
-  },
-  {
    "id": "tt33184695",
    "type": "movie",
    "name": "Rolling Loud: The Movie",
@@ -31,10 +22,10 @@
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
-   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=a94d6a24",
+   "poster": "https://cosmicpretzel.github.io/simkl-calendar/f/ef8a66dfded8dc4e70a4baa8fb323b8c/addon/posters/tt31510819.jpg?v=40ac9edb",
    "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-   "description": "Next episode: S02E10 \u00b7 The Queen is Dead \u00b7 Thu Nov 19, 07:00 PM PT",
-   "releaseInfo": "In 2 Hours"
+   "description": "Now In 1080p \u00b7 Next episode: S02E10 \u00b7 The Queen is Dead \u00b7 Thu Nov 19, 07:00 PM PT",
+   "releaseInfo": "Now In 1080p"
   },
   {
    "id": "tt5622316",
